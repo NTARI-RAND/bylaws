@@ -98,5 +98,8 @@ in the governance registry under §9.5.
 
 ## License
 
-[AGPL-3.0](LICENSE), matching NTARI's stewardship terms for the official
-document.
+[CC BY-SA 4.0](LICENSE) — the terms the
+[official document](https://github.com/NTARI-RAND/Janus) uses for the
+specification it publishes. An adopted instrument is a document, not software;
+AGPL-3.0 covers NTARI's software, including the conformance suite, and does not
+apply here.
