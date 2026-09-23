@@ -52,7 +52,7 @@ These principles are operative rules of interpretation. Every other provision of
 
 ## Article III — Membership
 
-**3.1 Membership Types.** Membership in the Institute is obtained by operating a federated instance of JFA software, or by prosumer standing in the Governance layer under §3.8. Orchestrators run software that links operators across regions and cultures while operators run frontend software that prosumers (users) interact with. Despite the functional heirarcy, the two operating types have equal standing in governance. Where these bylaws distinguish the paths, an operating member is a member by federated instance and a prosumer member is a member under §3.8.   
+**3.1 Membership Types.** Membership in the Institute is obtained by operating a federated instance of JFA software, or by prosumer standing under §3.8, placed in the Covenant federation or the Governance federation as the member elects under §3.9. Orchestrators run software that links operators across regions and cultures while operators run frontend software that prosumers (users) interact with. Despite the functional hierarchy, the two operating types have equal standing in governance, and a prosumer member has equal standing with both within its federation. Where these bylaws distinguish the paths, an operating member is a member by federated instance and a prosumer member is a member under §3.8.   
 
 **3.2 Federated instance.** An instance is federated when all of the following are true:
 
