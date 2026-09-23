@@ -78,6 +78,12 @@ These principles are operative rules of interpretation. Every other provision of
 
 **3.8 Prosumer membership.** A prosumer of a federated platform is a member of the Institute in the Covenant federation or the Governance federation, as the member elects under §3.9, and in that federation alone, upon recognition under §3.3. Recognition requires at least one sealed exchange committed to the public chain, verified from the chain and never from an operator's assertion, and is reckoned per person rather than per account. Prosumer membership carries the vote of §3.4 and, according to the federation elected, the candidacy of §8.2 or §8.3, and no duty under Article X. A prosumer member decides every matter its federation decides, the amendment of these bylaws under §15.1 included — the governed hold the vote on the structure that governs them. Its weight is bounded not by subject matter but by the delegate channel of §5.3: each federation carries one vote of five however large its roll grows. It lapses when the member so elects, or when no sealed exchange of that member stands on a federated platform and none is restored within ninety days; lapse is recorded by annotation under §3.6.
 
+**3.9 Election of a federation.** On recognition under §3.3, a prosumer member elects the Covenant federation or the Governance federation, and the Secretary records the election in the governance registry under §9.5. The election places the vote and nothing else: every right of Article IV is held in every federation and channel regardless of it, and a prosumer member is heard under §4.1(d) in the channel where a matter concerning them arose, whichever federation holds their vote.
+
+A prosumer member may change federations once each year. The option opens at 00:00 UTC on 17 March and closes at the instant of the March equinox in Coordinated Universal Time, which the Secretary publishes for the coming year from a standard astronomical ephemeris no later than the preceding equinox. Every change elected within the window takes effect at the equinox, when the Secretary records the new rolls under §9.5; outside the window the election stands. A change is the member's own act: no operator or orchestrator makes, directs, withholds, or conditions it, under §4.5.
+
+The equinox is the anchor because it belongs to no calendar: the year begins at different points in different cultures, and Earth's position in its orbit is the same for all of them.
+
 ---
 
 ## Article IV — Prosumer Standing
