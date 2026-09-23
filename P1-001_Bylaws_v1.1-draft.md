@@ -458,7 +458,7 @@ A hybrid deployment requires no ratification, because each prosumer chooses the 
 | §8.2 | The President drafts covenant amendments; adoption under §9.2 only | Official document, Covenant Layer; §7.6 |
 | §8.3 | The Vice President audits the stack against the standard | §12.2; conformance suite |
 | §10.7 | No institutional routing, scoped to cheap exit | §2.2 (gravity); official document, line 10 (L10) |
-| §10.9 | Prosumer-versus-own-operator disputes to the platform's witnesses; one witness drawn per dispute | Official document, Covenant Layer, orchestrator tier (as amended 2026-09-22); §2.2 |
+| §10.9 | Prosumer-versus-own-operator disputes to the platform's witnesses; one witness drawn per dispute | Official document, Covenant Layer (as amended 2026-09-22); §2.2 |
 | §11.1(d), §11.3 | Ratification by the deployment's prosumers before full mutual credit | §2.2 (gravity); official document, line 10 (L10), which states minimums |
 | §16.3 (Covenant) | The Covenant channel opens on a live §4.4 function | §16.2; §2.2 |
 
