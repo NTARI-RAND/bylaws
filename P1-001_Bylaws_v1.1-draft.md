@@ -58,7 +58,7 @@ These principles are operative rules of interpretation. Every other provision of
 
 (a) complys with membership duties in section §10.
 
-(b) maintains at least two independent witnesses hired from the substrate layer; an instance with fewer must label itself unfederated and does not qualify;
+(b) maintains at least two standing witnesses, drawn and paid under §10.2 and independent under §3.10; an instance with fewer must label itself unfederated and does not qualify;
 
 (c) commits its hashes to the public chain distributed across the substrate;
 
@@ -83,6 +83,8 @@ These principles are operative rules of interpretation. Every other provision of
 A prosumer member may change federations once each year. The option opens at 00:00 UTC on 17 March and closes at the instant of the March equinox in Coordinated Universal Time, which the Secretary publishes for the coming year from a standard astronomical ephemeris no later than the preceding equinox. Every change elected within the window takes effect at the equinox, when the Secretary records the new rolls under §9.5; outside the window the election stands. A change is the member's own act: no operator or orchestrator makes, directs, withholds, or conditions it, under §4.5.
 
 The equinox is the anchor because it belongs to no calendar: the year begins at different points in different cultures, and Earth's position in its orbit is the same for all of them.
+
+**3.10 Witness independence and eligibility.** A witness is independent of a platform when it is not the platform's operator, is not under common ownership or control with the operator, holds no interest in the operator, and is not a prosumer of that platform. A witness discloses any interest it holds in a party to a matter before acting on it and stands aside where the interest conflicts; the disclosure is recorded under §2.5. A member of the substrate is ineligible for any draw under §10.2 or §10.9 while the mode of the ratings of its adjudication conduct under §10.4 is −1; the mode is the decision rule §9.11 allows and is never displayed as a reputation. Independence is asserted on the record at the draw and is contestable under Article XII like any other condition.
 
 ---
 
