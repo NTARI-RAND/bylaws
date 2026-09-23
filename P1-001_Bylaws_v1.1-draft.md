@@ -1,8 +1,12 @@
 # Bylaws of Network Theory Applied Research Institute, Inc.
 
-**P1-001 · Version 1.0 · 2026-08-31**
+**P1-001 · Version 1.1 · Draft · 2026-09-22 · NOT YET ADOPTED**
 
-Prepared and adopted by the founder board as a bootstrap act under §16.1, and recorded in the governance registry under §9.5. Version numbering restarts at 1.0: this is the first instrument written to the Janus Facing Architecture, and it supersedes the P1-001 v6.0 through v8.0 line, which is archived rather than amended. Like every bootstrap act, it stands open to the membership under §2.3.
+This draft applies the amendment of 2026-09-22 to v1.0, item by item. It is **not the operative instrument**: v1.0 remains in force until the delegates adopt the amendment under §15.1, each federation having decided under §6.5 with every member of that federation holding the vote, prosumer members included, in a ballot noticed under §6.4 carrying the full text. During bootstrap (§16.1) the founder board exercises the powers of the membership; an adoption so made is recorded in the governance registry (§9.5) as a bootstrap act and stands open to the membership under §2.3.
+
+Items 2 through 12 and 18 rest on the amendment to the official document of the same date and cannot be adopted before it, and Item 16 depends on its §2 for §15.2 protection. The instrument — each item's dependencies, the §15.2 check, and the adoption record — is in [P1-001_Amendment_v1.1_2026-09-22.md](P1-001_Amendment_v1.1_2026-09-22.md). Translations under P2-002 follow adoption.
+
+Version numbering continues the line restarted at 1.0: this instrument is written to the Janus Facing Architecture and supersedes the P1-001 v6.0 through v8.0 line, which is archived rather than amended.
 
 ---
 
