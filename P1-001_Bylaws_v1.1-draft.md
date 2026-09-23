@@ -270,7 +270,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **10.6 Failure of duties.** Persistent failure of the duties of §§10.1–10.3 is a covenant matter first — adjudicated, rated, and disciplined by the market's cheap exit — and a membership matter only where it amounts to loss of a §3.2 condition or grounds for referral under §12.3.
 
-**10.7 No institutional routing.** The Institute does not supervise, ratify, or pre-clear operators' economic management. The checks are the architecture's own: filings that land on the public chain the moment they are made, publicly adjudicatied reputation, published limits and default rates, and prosumers' freedom to leave.
+**10.7 No institutional routing.** The Institute does not supervise, ratify, or pre-clear operators' economic management. Where a prosumer's exit from a deployment is cheap — under escrow, and under a hybrid deployment in which each prosumer chooses the terms it accepts under §11.5 — the checks are the architecture's own: filings that land on the public chain the moment they are made, publicly adjudicated reputation, published limits and default rates, and prosumers' freedom to leave. Where exit is dear — a deployment in full mutual credit, in which a prosumer's positive balance neither converts nor redeems and a negative one is owed — §2.2 requires a vote, and Article XI supplies it: the deployment's own prosumers ratify the switch under §11.1(d). The vote is theirs; no organ of the Institute is inserted in their place, and nothing in this section is a gate under §7.6.
 
 **10.8 Copyleft Reporting.** Compliance with the GNU Affero General Public License, copyleft sharing principles
 
