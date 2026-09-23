@@ -98,13 +98,13 @@ The equinox is the anchor because it belongs to no calendar: the year begins at 
 
 (d) address the appropriate Federation Channel in any proceeding that concerns them.
 
-**4.2 Standing, and the franchise.** Prosumer standing under §4.1 is voice and process, and requires no membership. The vote is not part of that standing: a prosumer who takes up Governance-layer membership under §3.8 holds the vote as a member, on the terms of §3.4, and votes on every matter the Governance Federation Channel decides — including the election and recall of the Vice President under §8.3 and expulsion referrals under §12.3.
+**4.2 Standing, and the franchise.** Prosumer standing under §4.1 is voice and process, and requires no membership. The vote is not part of that standing: a prosumer who takes up membership under §3.8 holds the vote as a member, on the terms of §3.4, in the federation elected under §3.9, and votes on every matter that federation decides — in the Covenant federation, the election and recall of the President under §8.2 among them; in the Governance federation, the election and recall of the Vice President under §8.3 and expulsion referrals under §12.3 among them. The election of a federation places the vote and nothing else; standing under §4.1 is held everywhere regardless of it.
 
 **4.3 The Institute serves the standing.** The offices and organs of the Institute are obligated to receive, docket, and process prosumer filings on equal terms with member filings.
 
-**4.4 The path into membership.** Every operator provides, in the frontend of its platform, the function by which a prosumer takes up Governance-layer membership under §3.8 and thereafter raises business and votes in the Governance Federation Channel — as an operating member joins a federation through the console of §5.3. Withholding that function is a failure of duty under §10.6.
+**4.4 The path into membership.** Every operator provides, in the frontend of its platform, the function by which a prosumer takes up membership under §3.8, elects and changes its federation under §3.9, and thereafter raises business and votes in that federation's channel — as an operating member joins a federation through the console of §5.3. Withholding any part of that function is a failure of duty under §10.6.
 
-**4.5 A prosumer's vote is their own.** No operator or orchestrator casts, directs, withholds, or aggregates the vote of a prosumer member, and none conditions service, credit, or standing on how a prosumer member votes. A platform's prosumer-member votes are published as cast, so that a bloc moving together is visible on the record. Doing otherwise is a failure of duty under §10.6 and grounds for referral under §12.3.
+**4.5 A prosumer's vote is their own.** No operator or orchestrator casts, directs, withholds, or aggregates the vote of a prosumer member, and none conditions service, credit, or standing on how a prosumer member votes or on which federation it elects under §3.9. A platform's prosumer-member votes are published as cast, so that a bloc moving together is visible on the record. Doing otherwise is a failure of duty under §10.6 and grounds for referral under §12.3.
 
 ---
 
