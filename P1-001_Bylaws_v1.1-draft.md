@@ -56,7 +56,7 @@ These principles are operative rules of interpretation. Every other provision of
 
 **3.2 Federated instance.** An instance is federated when all of the following are true:
 
-(a) complys with membership duties in section §10.
+(a) complies with membership duties in section §10.
 
 (b) maintains at least two standing witnesses, drawn and paid under §10.2 and independent under §3.10; an instance with fewer must label itself unfederated and does not qualify;
 
@@ -254,7 +254,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 **Protocol Orchestration** Provide prosumers (users) with covenant adjudicated socioeconomic markets based on protocol;
 **Orchestration Link** When able, link prosumer communities by broadcasting to an orchestrator; 
 **Protocol Involvement** maintain CI/CD that improves governance and maintain the protocol; 
-**Covenant Compliance** Serve bi-directional Covenant layer assessments at all points where orchestrators and operators exchange information or materials according to §9.10, adjudicate covenant breeches between prosumers and execute the remedies an adjudication yields.
+**Covenant Compliance** Serve bi-directional Covenant layer assessments at all points where orchestrators and operators exchange information or materials according to §9.10, adjudicate covenant breaches between prosumers and execute the remedies an adjudication yields.
 **Defaults** annotate defaults on the record by kind — deceased, departed, or adjudicated, unknown — never erasing them; publish the platform's trailing default rate — dead credit created over a recent rolling window as a share of trade volume.
 **Credit Setting** When using mutual credit, set the community-wide credit limit: one number for everyone, never set per member, and never derived from reputation
 **Custody** Where prosumer funds or collateral are held, disclose in the platform's published rules who holds them, on what terms, and how a prosumer recovers them if the platform ceases to operate; name every third-party processor or custodian in the chain, whether or not the platform touches the funds itself. Escrow is the one stage at which a prosumer's position does not survive the operator, so the trust it requires is answered by disclosure and exit: undisclosed custody is a failure of duty under §10.6 and grounds for referral under §12.3.
@@ -308,9 +308,9 @@ A hybrid deployment requires no ratification, because each prosumer chooses the 
 
 **12.1 What only the Governance Layer may do.** The Office of the Vice President enforces these bylaws across the stack by exercising the following powers.
 
-**12.2 Audits.** Confirmation of the official record against orchestrators, witnessess, and prosumer records as well as the executed code. The Governance and adjacent Federation(s) involved in an issue may agree to commission hardware inspections.    
+**12.2 Audits.** Confirmation of the official record against orchestrators, witnesses, and prosumer records as well as the executed code. The Governance and adjacent Federation(s) involved in an issue may agree to commission hardware inspections.    
 
-**12.3 Expulsion referrals.** An adjudicator's referral of expulsion is filed with the governance federation's frontend channel. The channel decides the expulsion by majority of votes cast. Expulsion is recorded by annotation in the governance registry. While expulsion from a frontend platform does not bar a prosumer or operator from joining another platform or orchestrator, it does not stop an operator or orchestrator from baring them.   
+**12.3 Expulsion referrals.** An adjudicator's referral of expulsion is filed with the governance federation's frontend channel. The channel decides the expulsion by majority of votes cast. Expulsion is recorded by annotation in the governance registry. While expulsion from a frontend platform does not bar a prosumer or operator from joining another platform or orchestrator, it does not stop an operator or orchestrator from barring them.   
 
 **12.4 What expulsion reaches.** Expulsion does not erase history; the expelled party's record stands, annotated. It does not reach what the architecture guarantees: a member's positions and history survive any frontend, and a community's records survive any operator or orchestrator.
 
