@@ -445,6 +445,18 @@ A hybrid deployment requires no ratification, because each prosumer chooses the 
 | §15.1 | These bylaws amended by a majority of delegates, every member of each federation voting | §2.1; §2.2 (gravity); §7.5 |
 | §16.1, §16.2 | Bootstrap by founder board; each act recorded and open to challenge | Concept triage, 2026-08-24 (meta) |
 | §16.3 | Governance federation sells no service; the channel opens on a live §4.4 function | §16.2; §2.2 (gravity) |
+| §2.2 (stage) | The cost of leaving is reckoned at the stage a deployment is in | Official document, Principles (Institutional Discipline); line 10 (L10) |
+| §3.1, §3.8, §3.9 | Prosumer member sits in the Covenant or Governance federation at its election; one change a year, at the equinox | Official document, Governance Layer, orchestrator tier (as amended 2026-09-22); §2.1 |
+| §3.9, §4.2 | The election places the vote and nothing else; standing held everywhere | Article IV; §2.1 |
+| §3.10, §10.2 (Witnesses) | Independence defined; seeded verifiable draw; market-paid; staggered rotation | Official document, Record Layer (REC-witness-minimum); §2.2 (a power names its check); §4.1(a) |
+| §5.3 | Who populates each federation | Official document, layer definitions; structure article, "Between Federations" |
+| §6.5 | Operating-member floor struck | §2.2; §13.1 (no chokepoint) |
+| §8.2 | The President drafts covenant amendments; adoption under §9.2 only | Official document, Covenant Layer; §7.6 |
+| §8.3 | The Vice President audits the stack against the standard | §12.2; conformance suite |
+| §10.7 | No institutional routing, scoped to cheap exit | §2.2 (gravity); official document, line 10 (L10) |
+| §10.9 | Prosumer-versus-own-operator disputes to the platform's witnesses; one witness drawn per dispute | Official document, Covenant Layer, orchestrator tier (as amended 2026-09-22); §2.2 |
+| §11.1(d), §11.3 | Ratification by the deployment's prosumers before full mutual credit | §2.2 (gravity); official document, line 10 (L10), which states minimums |
+| §16.3 (Covenant) | The Covenant channel opens on a live §4.4 function | §16.2; §2.2 |
 
 ---
 
