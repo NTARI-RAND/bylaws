@@ -40,7 +40,7 @@ These principles are operative rules of interpretation. Every other provision of
 
 **2.1 Shared Responsibility.** The community that coordinates is the same community that checks the coordination. The two functions are exchanged continuously among the members and are never split into rulers and ruled. No organ created by these bylaws may become a body that only decides and is never answerable.
 
-**2.2 Gravity.** Each layer of the architecture — and each organ of this Institute — is disciplined by the cost of prosumer's ability to leave it. Where leaving is cheap, competition disciplines and these bylaws impose no gate. Where leaving is dear, the members vote. Where leaving is catastrophic, decisions stay open to challenge. Any provision of these bylaws that creates a power must name its check; a power whose check cannot be identified is void until the membership supplies one.
+**2.2 Gravity.** Each layer of the architecture — and each organ of this Institute — is disciplined by the cost to a prosumer of leaving it. Where leaving is cheap, competition disciplines and these bylaws impose no gate. Where leaving is dear, the members vote. Where leaving is catastrophic, decisions stay open to challenge. The cost of leaving is reckoned as it stands at the stage a deployment or an organ is in, not as it stood at entry: a check that was sufficient under escrow is not thereby sufficient under mutual credit. Any provision of these bylaws that creates a power must name its check; a power whose check cannot be identified is void until the membership supplies one.
 
 **2.3 No decision permanently closed.** No decision of the membership is permanently closed. Any member may bring a decided matter back before the body under §6.7.
 
