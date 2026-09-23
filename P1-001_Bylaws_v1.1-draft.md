@@ -282,11 +282,21 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **11.1 The gate.** Deployments begin with escrow as the default transaction formatting — collateralized, no negative balances, and no counterparty credit extended. The only trust escrow requires is in the operator's custody of the funds, which §10.2 requires the operator to disclose.
 
-A deployment switches to a hybrid or full mutual credit system only when all three of the following are true: the operator has built the capacity to manage the stage it is entering, in accordance with local laws; the prosumer network has been notified under §11.3; and the publication required by §11.2 has been made. Until all three are true the switch is not gated, whatever else has been done, and each of the three is a condition of this section for the purposes of §11.4.
+A deployment switches to a hybrid mutual credit system only when conditions (a) through (c) are all true, and to a full mutual credit system only when conditions (a) through (d) are all true:
+
+(a) the operator has built the capacity to manage the stage it is entering, in accordance with local laws;
+
+(b) the prosumer network has been notified under §11.3;
+
+(c) the publication required by §11.2 has been made; and
+
+(d) the deployment's prosumers have ratified the switch: in a ballot noticed to them under §11.3 and open for no less than one week, a majority of the votes cast was for the switch. Each prosumer of the deployment — every person with a sealed exchange on the platform committed to the public chain, reckoned per person and never per account — holds one vote, cast in the platform frontend through the function of §4.4, and never cast, directed, withheld, or conditioned by the operator under §4.5. The ballot, the roll it was held on, and its result are published to the governance registry with the publication of §11.2.
+
+A hybrid deployment requires no ratification, because each prosumer chooses the terms it accepts under §11.5 and no prosumer's exit is made dear without its consent; a deployment moving from hybrid to full mutual credit satisfies (d) anew. Until every applicable condition is true the gate is not passed, whatever else has been done, and each condition is a condition of this section for the purposes of §11.4.
 
 **11.2 Publication is the act.** Publication to the governance registry of the local authorizations to provide mutual credit services — or, where the jurisdiction requires none, of a finding to that effect — is itself the operative act, and authorizes mutual credit transactions across orchestrators. A finding that no authorization is required is an assertion on the record, contestable under §11.4 like any other condition of the gate. 
 
-**11.3 Notification.** The applicable federation must be notified when an operator gives notice to prosumers, no less than thirty days before the switch takes effect.
+**11.3 Notification.** The applicable federation must be notified when an operator gives notice to prosumers, no less than thirty days before the switch takes effect. For a switch to full mutual credit, the notice states the days on which the ratification ballot of §11.1(d) opens and closes, and the switch takes effect no earlier than thirty days after the notice and no earlier than the ballot's close.
 
 **11.4 Challenges to Local Compliance.** Any member, or any prosumer of the deployment, may challenge whether the conditions of §11.1 were in fact met, through the procedure of Article XII.
 
