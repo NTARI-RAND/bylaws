@@ -138,7 +138,7 @@ The equinox is the anchor because it belongs to no calendar: the year begins at 
 
 **6.5 Quorum and majority.** A matter before the Institute is decided by the delegates, each federation casting one vote through its delegate under §5.3. The delegates' ballot is valid when at least three federations cast, and except where these bylaws require more the matter is decided by a majority of the votes cast.
 
-Within a federation, the matter is decided by a majority of votes cast by its members. A federation's ballot is valid when notice under §6.4 was given and at least one member casts; in the Governance federation, at least one operating member must be among them. A federation's small roll is not a defect to be cured by a higher bar: the record of each ballot states the roll the federation then held, so a thin decision is visible rather than hidden.
+Within a federation, the matter is decided by a majority of votes cast by its members. A federation's ballot is valid when notice under §6.4 was given and at least one member casts. A federation's small roll is not a defect to be cured by a higher bar: the record of each ballot states the roll the federation then held, so a thin decision is visible rather than hidden.
 
 Where these bylaws give a matter to a channel or a federation rather than to the Institute — including expulsion referrals under §12.3 and the petitions of §12.5 — that body decides it by the same internal majority and no delegate vote is taken.
 
