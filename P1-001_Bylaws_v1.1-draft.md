@@ -66,7 +66,7 @@ These principles are operative rules of interpretation. Every other provision of
 
 (e) its operation does not cross any of the twelve lines.
 
-**3.3 Recognition.** Membership begins upon recognition by the office of the Secretary. Recognition is ministerial, not discretionary: the Secretary verifies §3.2 for an operating member, or the sealed exchange that §3.8 requires for a prosumer member, from the public chain and the published record, and records the recognition in the governance registry (§9.5). A refusal to recognize must state which condition failed and is challengeable through Article XII.
+**3.3 Recognition.** Membership begins upon recognition by the office of the Secretary. Recognition is ministerial, not discretionary: the Secretary verifies §3.2 for an operating member, or the sealed exchange that §3.8 requires for a prosumer member, from the public chain and the published record, and records the recognition in the governance registry (§9.5), together with the federation a prosumer member elects under §3.9. A refusal to recognize must state which condition failed and is challengeable through Article XII.
 
 **3.4 One member, one vote.** Each member holds one vote in each federation to which it belongs, and never more than one there however many instances it operates in that layer. An operating member belongs to the federation of every layer it operates; a prosumer member belongs to the Governance federation alone. A federation's decision is carried to the Institute by its delegate under §5.3, so headcount decides within a federation and never beyond it. Governance weight, like credit, is never bought.
 
