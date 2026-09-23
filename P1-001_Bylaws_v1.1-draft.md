@@ -146,7 +146,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **6.7 Reopening a decided matter.** Any member may, by filing in the appropriate Federation Channel, bring any decided matter back before the body; the filing states what decision is challenged and what outcome is sought, and the matter enters the next assembly or ballot. If the body reaffirms its decision without change, the same member may not reopen the same matter for ninety days; any other member may. A matter may not be argued using  verbiage that has been defeated more than once.  
 
-**6.8 Elections and recall.** Each director is elected and recalled by the federation to which §7.2 binds the office, by majority of votes cast in that federation under §6.5 — the Vice President by the Governance federation, in which prosumer members vote under §3.4. Recall requires no cause and takes effect immediately.
+**6.8 Elections and recall.** Each director is elected and recalled by the federation to which §7.2 binds the office, by majority of votes cast in that federation under §6.5 — the President by the Covenant federation and the Vice President by the Governance federation, in each of which the prosumer members who have elected it vote under §3.4. Recall requires no cause and takes effect immediately.
 
 **6.9 Deliberation procedure.** The Institute maintains a procedure for deliberating substantive matters, set by policy and resident with the governance venue rather than in these bylaws, so that it may be tuned as the venue changes. Whatever procedure is in force must satisfy the rule the covenant applies to trade: a single documented harm suffices to reopen a synthesis, and harm is never averaged into it. A procedure that averages harm, or that closes a synthesis over a documented harm, is void to that extent.
 
@@ -172,9 +172,9 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **8.1 The offices.** The directors of the Institute are a President, a Vice President, workspace administrator, a Secretary, and a Treasurer. Officers are elected by the membership federations at the annual assembly for one-year terms and are recallable under §6.8. 
 
-**8.2 President.** Elected by the Covenant Federation, the office of the President directs research and development (RAND) on the Covenant Layer protocol, oversees the LBTAS API serving compliant covenant assessments to the network, and its socioeconomic effects on the federated communities. 
+**8.2 President.** Elected by the Covenant Federation, the office of the President directs research and development (RAND) on the Covenant Layer protocol, oversees the LBTAS API serving compliant covenant assessments to the network, studies their socioeconomic effects on the federated communities, and drafts amendments to the covenant protocol as the needs of the stack require. A draft is adopted only under §9.2; the office is no gate under §7.6. Any member of that federation may stand for the office, prosumer members of §3.8 included. 
 
-**8.3 Vice President.** Elected by the Governance Federation, the office of the Vice President enforces these bylaws with powers specified in Article XII. Any member of that federation may stand for the office, prosumer members of §3.8 included. 
+**8.3 Vice President.** Elected by the Governance Federation, the office of the Vice President maintains and audits the stack against the official document and the conformance suite, and enforces these bylaws, with the powers specified in Article XII. Any member of that federation may stand for the office, prosumer members of §3.8 included. 
 
 **8.4 Secretary.** Elected by the Record Federation the Secretariat keeps governance records, performs the ministerial recognition of members under §3.3, maintains the governance registry of §9.5, receives and records the publications of Article XI, and issues the notices these bylaws require.
 
