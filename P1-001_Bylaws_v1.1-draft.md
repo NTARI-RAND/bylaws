@@ -8,7 +8,7 @@ Prepared and adopted by the founder board as a bootstrap act under §16.1, and r
 
 ## Preamble
 
-Janus Facing Architecture assigns this organization a precise seat: the protocol tier of the Governance layer — a nonprofit, 501(c)(3), copyleft software stewardship organization, governed by these bylaws. The relationships between its operator-members is the architecture's Governance orchestration. The Governance frontend is currently hosted in Slack, granted by the Salesforce Corporation. A custom platform is being developed to replace this proprietary software dependency. 
+Janus Facing Architecture assigns this organization a precise seat: the protocol tier of the Governance layer — a nonprofit, 501(c)(3), copyleft software stewardship organization, governed by these bylaws. The relationships among its members — operating members and prosumer members alike — are the architecture's Governance orchestration. The Governance frontend is currently hosted in Slack, granted by the Salesforce Corporation. A custom platform is being developed to replace this proprietary software dependency. 
 
 ---
 
