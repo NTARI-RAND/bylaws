@@ -1,14 +1,14 @@
 # Bylaws of Network Theory Applied Research Institute, Inc.
 
-**P1-001 · Version 1.0 · 2026-08-31**
+**P1-001 · Version 1.1 (draft) · pending adoption**
 
-Prepared and adopted by the founder board as a bootstrap act under §16.1, and recorded in the governance registry under §9.5. Version numbering restarts at 1.0: this is the first instrument written to the Janus Facing Architecture, and it supersedes the P1-001 v6.0 through v8.0 line, which is archived rather than amended. Like every bootstrap act, it stands open to the membership under §2.3.
+Version 1.1 amends version 1.0 (adopted 2026-08-31) to resolve the September 2026 consistency review. It takes effect when adopted by the founder board as a bootstrap act under §16.1 and recorded in the governance registry under §9.5; version 1.0 stays in the record unchanged (§2.5). Version numbering restarted at 1.0 with the first instrument written to the Janus Facing Architecture, which superseded the P1-001 v6.0 through v8.0 line, archived rather than amended. Like every bootstrap act, this one stands open to the membership under §2.3.
 
 ---
 
 ## Preamble
 
-Janus Facing Architecture assigns this organization a precise seat: the protocol tier of the Governance layer — a nonprofit, 501(c)(3), copyleft software stewardship organization, governed by these bylaws. The relationships between its operator-members is the architecture's Governance orchestration. The Governance frontend is currently hosted in Slack, granted by the Salesforce Corporation. A custom platform is being developed to replace this proprietary software dependency. 
+Janus Facing Architecture assigns this organization a precise seat: the protocol tier of the Governance layer — a nonprofit, 501(c)(3), copyleft software stewardship organization, governed by these bylaws. The relationships between its members are the architecture's Governance orchestration. The Governance frontend is currently hosted in Slack, granted by the Salesforce Corporation, as a named interim under the venue policy of §5.6 (P1-005). A custom platform is being developed to replace this proprietary software dependency. 
 
 ---
 
@@ -40,7 +40,7 @@ These principles are operative rules of interpretation. Every other provision of
 
 **2.1 Shared Responsibility.** The community that coordinates is the same community that checks the coordination. The two functions are exchanged continuously among the members and are never split into rulers and ruled. No organ created by these bylaws may become a body that only decides and is never answerable.
 
-**2.2 Gravity.** Each layer of the architecture — and each organ of this Institute — is disciplined by the cost of prosumer's ability to leave it. Where leaving is cheap, competition disciplines and these bylaws impose no gate. Where leaving is dear, the members vote. Where leaving is catastrophic, decisions stay open to challenge. Any provision of these bylaws that creates a power must name its check; a power whose check cannot be identified is void until the membership supplies one.
+**2.2 Gravity.** Each layer of the architecture — and each organ of this Institute — is disciplined by the cost of leaving it. Where leaving is cheap, competition disciplines and these bylaws impose no gate. Where leaving is dear, the members vote. Where leaving is catastrophic, decisions stay open to challenge. Any provision of these bylaws that creates a power must name its check; a power whose check cannot be identified is void until the membership supplies one.
 
 **2.3 No decision permanently closed.** No decision of the membership is permanently closed. Any member may bring a decided matter back before the body under §6.7.
 
@@ -52,13 +52,13 @@ These principles are operative rules of interpretation. Every other provision of
 
 ## Article III — Membership
 
-**3.1 Membership Types.** Membership in the Institute is obtained by operating a federated instance of JFA software, or by prosumer standing in the Governance layer under §3.8. Orchestrators run software that links operators across regions and cultures while operators run frontend software that prosumers (users) interact with. Despite the functional heirarcy, the two operating types have equal standing in governance. Where these bylaws distinguish the paths, an operating member is a member by federated instance and a prosumer member is a member under §3.8.   
+**3.1 Membership Types.** Membership in the Institute is obtained by operating a federated instance of JFA software, or by participating as a prosumer on a federated platform under §3.8. Orchestrators run software that links operators across regions and cultures while operators run frontend software that prosumers (users) interact with. Despite the functional hierarchy, the two operating types have equal standing in governance. Where these bylaws distinguish the paths, an operating member is a member by federated instance and a prosumer member is a member under §3.8.   
 
 **3.2 Federated instance.** An instance is federated when all of the following are true:
 
-(a) complys with membership duties in section §10.
+(a) it is not in failure of any duty that §10.6 treats as a membership matter;
 
-(b) maintains at least two independent witnesses hired from the substrate layer; an instance with fewer must label itself unfederated and does not qualify;
+(b) it has at least two independent witnesses, assigned by the substrate market and paid by the operator; an instance with fewer must label itself unfederated and does not qualify;
 
 (c) commits its hashes to the public chain distributed across the substrate;
 
@@ -72,7 +72,7 @@ These principles are operative rules of interpretation. Every other provision of
 
 **3.5 Operating members are operators.** An operating member is the person or entity responsible for the operation of its instance, and its membership carries the duties of Article X for every platform economy it hosts. A prosumer member operates no instance and carries no duty under Article X.
 
-**3.6 Lapse.** Membership lapses when the member's last federated instance ceases to satisfy §3.2 and is not restored within ninety days. Lapse is recorded by annotation, with its kind — ceased, lapsed, or expelled — and is not an erasure of the member's history. A lapsed member is readmitted by the same recognition path as a new member, except where Article XII governs.
+**3.6 Lapse.** Membership lapses when the member's last federated instance ceases to satisfy §3.2 and is not restored within ninety days. Lapse is recorded by annotation, with its kind — ceased or lapsed — and is not an erasure of the member's history. A lapsed member is readmitted by the same recognition path as a new member, except where Article XII governs.
 
 **3.7 Continuous exchange of roles.** Every member is simultaneously a coordinator of the network and a checker of its coordination. No class of membership may be created whose function is only one of the two. Prosumer membership is not such a class: a prosumer member coordinates the network by transacting on it and checks that coordination by voting in the Governance channel.
 
@@ -108,7 +108,7 @@ These principles are operative rules of interpretation. Every other provision of
 
 **5.2 The appropriate channel.** Where these bylaws direct a matter to "the appropriate Federation Channel," that is the channel of the layer in which the matter arose; where a matter spans layers, the Governance channel is appropriate.
 
-**5.3 Federation.** A federation is the community of the members of each layer (substrate, covenant, record, governance, and Economy & Information) — its operators and orchestrators, and in the Governance layer its prosumer members. Members join automatically through a console in the backend of JFA software produced by the Institute. Each federation elects one delegate, who is the director bound to that federation under §7.2. The delegate carries the federation's single vote in every matter these bylaws give to the delegates. A delegate is recallable at any time by vote of the federation that elected them, without cause and with immediate effect.
+**5.3 Federation.** A federation is the community of the members of each layer (Substrate, Record, Covenant, Governance, and Economy & Information) — its operators and orchestrators, and in the Governance layer its prosumer members. Members join automatically through a console in the backend of JFA software produced by the Institute. Each federation elects one delegate, who is the director bound to that federation under §7.2. The delegate carries the federation's single vote in every matter these bylaws give to the delegates. A delegate is recallable at any time by vote of the federation that elected them, without cause and with immediate effect.
 
 **5.4 Officer Responsibilities.** Each officer of the Institute is filled by federation-elected delegates. The federation is the body through which the members continuously check that office: it observes the office's work, and its delegate acts for the office where these bylaws so provide, including §12.5(d).
 
@@ -138,7 +138,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **6.6 Open proceedings.** Assemblies and ballots are open to observation by prosumers and the public, subject to the privacy floor of §2.4.
 
-**6.7 Reopening a decided matter.** Any member may, by filing in the appropriate Federation Channel, bring any decided matter back before the body; the filing states what decision is challenged and what outcome is sought, and the matter enters the next assembly or ballot. If the body reaffirms its decision without change, the same member may not reopen the same matter for ninety days; any other member may. A matter may not be argued using  verbiage that has been defeated more than once.  
+**6.7 Reopening a decided matter.** Any member may, by filing in the appropriate Federation Channel, bring any decided matter back before the body; the filing states what decision is challenged and what outcome is sought, and the matter enters the next assembly or ballot. If the body reaffirms its decision without change, the same member may not reopen the same matter for ninety days, unless the filing documents a harm that was not before the body when it decided; any other member may. A matter may not be argued using  verbiage that has been defeated more than once.  
 
 **6.8 Elections and recall.** Each director is elected and recalled by the federation to which §7.2 binds the office, by majority of votes cast in that federation under §6.5 — the Vice President by the Governance federation, in which prosumer members vote under §3.4. Recall requires no cause and takes effect immediately.
 
@@ -150,9 +150,9 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **7.1 Delegates, not principals.** The directors are recallable delegates of the bodies that elect them. The Board conducts the affairs of the Institute between assemblies; it does not hold what Article XV reserves to the members.
 
-**7.2 Composition and term.** The Board consists of no fewer than three and no more than five directors. Directors are elected at the annual assembly for one-year terms and serve until their successors are elected. Each delegate is elected to their bound federation and layer: (President-Covenant, Vice president- Governance, Secretary-Record, Workspace Administrator-Substrate, Treasurer-E&I). There are no term limits; the recall of §6.8 is the discipline. 
+**7.2 Composition and term.** From the end of bootstrap under §16.2, the Board consists of five directors, each elected by the federation bound to their office: the President by the Covenant federation, the Vice President by the Governance federation, the Secretary by the Record federation, the Workspace Administrator by the Substrate federation, and the Treasurer by the Economy & Information federation. Federations elect continuously, as terms end or as needed, for one-year terms; a director serves until a successor is elected. Until bootstrap ends, the founder board of §16.1 serves as the Board. There are no term limits; the recall of §6.8 is the discipline. 
 
-**7.3 Vacancies.** The Board may fill a vacancy until the next assembly or ballot, at which the membership fills it.
+**7.3 Vacancies.** A vacant office is filled by election of the federation bound to it, under §6.8. A federation whose office is vacant conducts no other governance business until it elects, and the governance software enforces this.
 
 **7.4 Action.** The Board acts in meetings, synchronous or asynchronous, on one week's notice to its members, a majority constituting a quorum and a majority of those present deciding. Board proceedings are open to observation by members, and their records are kept under §2.5. The Board holds no recurring meeting requirement: its action may be taken continuously by written consent under KRS 273.375, recorded under §2.5 like any other proceeding.
 
@@ -164,17 +164,17 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 ## Article VIII — Directors
 
-**8.1 The offices.** The directors of the Institute are a President, a Vice President, workspace administrator, a Secretary, and a Treasurer. Officers are elected by the membership federations at the annual assembly for one-year terms and are recallable under §6.8. 
+**8.1 The offices.** The directors of the Institute are a President, a Vice President, a Workspace Administrator, a Secretary, and a Treasurer. Each is elected continuously by the federation bound to the office under §7.2, as terms end or as needed, for a one-year term, and is recallable under §6.8. 
 
-**8.2 President.** Elected by the Covenant Federation, the office of the President directs research and development (RAND) on the Covenant Layer protocol, oversees the LBTAS API serving compliant covenant assessments to the network, and its socioeconomic effects on the federated communities. 
+**8.2 President.** Elected by the Covenant Federation, the office of the President directs research and development (R&D) on the Covenant layer protocol; oversees the LBTAS API serving compliant covenant assessments to the network; studies the covenant's socioeconomic effects on the federated communities and its users, including through the formal studies the Covenant federation commissions; and administers the covenant ratings of §12.5, which serve that study. 
 
-**8.3 Vice President.** Elected by the Governance Federation, the office of the Vice President enforces these bylaws with powers specified in Article XII. Any member of that federation may stand for the office, prosumer members of §3.8 included. 
+**8.3 Vice President.** Elected by the Governance Federation, the office of the Vice President oversees the Governance layer frontend, shares responsibility for the governance platform with the office of the Workspace Administrator (§8.6), and enforces these bylaws with the powers specified in Article XII. Any member of that federation may stand for the office, prosumer members of §3.8 included. 
 
 **8.4 Secretary.** Elected by the Record Federation the Secretariat keeps governance records, performs the ministerial recognition of members under §3.3, maintains the governance registry of §9.5, receives and records the publications of Article XI, and issues the notices these bylaws require.
 
-**8.5 Treasurer.** Elected by the Federation of Economy & Information, the office of the Treasurer keeps the accounts of the Institute, report to annual assemblies, and complies with authorities referenced in §1.2.
+**8.5 Treasurer.** Elected by the Federation of Economy & Information, the office of the Treasurer keeps the accounts of the Institute, reports to the annual assembly, and complies with authorities referenced in §1.2.
 
-**8.6 Workspace Administrator.** Elected by the Substrate Federation, the office of Workspace Administration oversees RAND of the substrate protocol, substrate orchestration and the Governance Layer frontend. 
+**8.6 Workspace Administrator.** Elected by the Substrate Federation, the office of Workspace Administration oversees R&D of the substrate protocol and substrate orchestration, provides the services within the governance platform, and shares responsibility for that platform with the office of the Vice President. 
 
 ---
 
@@ -182,11 +182,11 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **9.1 What the Institute stewards.** The Institute stewards the official document and software stack of janus Facing Architecture, the conformance suite and its invariant registry, the concept triage record, and the living open-questions document. 
 
-**9.2 Amending the official document.** The official document is amended only by a majority vote of the delegates, each federation having decided under §6.5. An amendment is not adopted until the conformance suite passes against the amended text. A concept retired by the triage record stays retired unless the same act that reintroduces it amends the triage record and says so.
+**9.2 Amending the official document.** The official document is amended only by a majority vote of the delegates, each federation having decided under §6.5. An amendment is not adopted until the conformance suite passes against the amended text; for this purpose the suite passes when every document-bound invariant (§9.14(a)) passes, and delegated invariants, reported unbound under §9.15, do not block adoption. A concept retired by the triage record stays retired unless the same act that reintroduces it amends the triage record and says so.
 
 **9.3 The open-questions obligation.** The Institute keeps its open-questions document current. A question raised in governance and not resolved is entered; a stale open-questions document means the project has stopped describing itself honestly, and any member may raise staleness as business in the Governance channel.
 
-**9.4 Licensing floor.** JFA software is licensed under the GNU Affero General Public License (AGPL-3). The Institute never relicenses either into proprietary terms, accepts contributions only under terms consistent with this floor, and signs no agreement that would let any party — including the Institute — close what is open.
+**9.4 Licensing floor.** JFA software is licensed under the GNU Affero General Public License, version 3 or any later version (AGPL-3.0-or-later), and the specification under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0). The Institute never relicenses either into proprietary terms, accepts contributions only under terms consistent with this floor, and signs no agreement that would let any party — including the Institute — close what is open.
 
 **9.5 The governance registry.** The Secretary maintains a public, append-only governance registry recording: recognitions and lapses of membership; the publications of Article XI; expulsions, readmissions, and re-entries under Article XII; and each amendment of the official document and of these bylaws. The registry honors §2.4.
 
@@ -198,15 +198,15 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **9.9 The scale.** LBTAS is a standing promise not to harm, not a marketing score. It adapts a safety methodology in which harm is a discrete event to be surfaced, never an average to be smoothed. Its scale is six meaning-loaded ordinal levels from −1 through +4, each carrying a fixed definition rather than an interchangeable point on a continuous axis. Its lowest rating, −1, means a party was harmed, exploited, or served with no discipline or with malicious intent.
 
-**9.10 The covenant's binding rules.** No implementation is conformant to the covenant, and no member's operation satisfies §3.2(e), unless all of the following hold:
+**9.10 The covenant's binding rules.** No implementation is conformant to the covenant unless all of the following hold:
 
 (a) **Reputation is never explicit.** No platform publishes a reputation. What it publishes is the record: the count of ratings at each of the six levels together with the total, displayed as the chart of §9.11. Reputation is what a prosumer derives for themselves by reading that chart — their own judgment of a peer's recorded rating history, never a figure the platform computes, asserts, or ranks. No system average, per-category mean, or overall score exists in any return value, report, or display. 
 
-(b) **A −1 is the breach and it is accountable.** The −1 category in an LBTAS Chart is color coded red to visually indicate, along with the negative sign, the harm category. Harm is surfaced and never diluted, and every exchange that received one must be named. A −1 carries a justifying comment of five hundred words or less, required where the rating is written; a −1 without a comment is refused, and an overlong comment is refused rather than silently shortened. Levels 0 through +4 require no comment. Under §2.4, only the comment's hash reaches the shared record; the text stays in the rating party's own erasable records and is verified against that hash on read.
+(b) **A −1 is the breach and it is accountable.** The −1 category in an LBTAS Chart is color coded red to visually indicate, along with the negative sign, the harm category. Harm is surfaced and never diluted, and every exchange that received one must be named. A −1 always carries a justifying comment of up to five hundred words, required where the rating is written; a −1 without a comment is refused, and an overlong comment is refused rather than silently shortened. Levels 0 through +4 require no comment. Under §2.4, only the comment's hash reaches the shared record; the text stays in the rating party's own erasable records and is verified against that hash on read.
 
 (c) **Assessment is bidirectional and symmetric.** Both parties to a sealed exchange rate each other, every claim is answerable, and a dismissal is a visible annotation, never an erasure. Where one party adjudicates or otherwise acts upon another, the rated party retains an answer path.
 
-(d) **Ratings are typed by relation.** A rating carries the relation in which it was made so no reader collapses one relation into another. Trade, adjudication conduct, and verdict satisfaction are the relations of an economic deployment; knowledge claim and citation are the relations of an education deployment. A profile serving another domain declares its own relations and is bound by the same rule. Pooling across relations is the average forbidden by (a), committed across types instead of across ratings.
+(d) **Ratings are typed by relation.** A rating carries the relation in which it was made so no reader collapses one relation into another. Trade, adjudication conduct, and verdict satisfaction are the relations of an economic deployment; knowledge claim and citation are the relations of an education deployment. A profile serving another domain declares its own relations and is bound by the same rule. Ratings cast under §12.5 carry the governance relation that the office of the President declares for them. Pooling across relations is the average forbidden by (a), committed across types instead of across ratings.
 
 (e) **Reputation gates whether, never how much.** Reputation decides whether a prosumer transacts on trust. Sizing a commitment belongs to the economy and to the community-wide credit limit of §10.2, which is never derived from reputation. Merging the two rebuilds a credit score and is a breach of this section.
 
@@ -226,45 +226,59 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 (c) **Instrument.** Enforceable only by a governance instrument and its venue tooling. The binding is complete when that instrument and its tooling cite the identifier.
 
-**9.15 Delegated invariants are reported unbound.** The suite never reports as checked an invariant it does not execute. An invariant bound to implementation or instrument is reported as delegated and unbound until something cites its identifier, and the Institute counts it as unsatisfied for every purpose these bylaws give conformance. The count of bound and unbound invariants is published with each run. Reporting a delegated invariant as passing is self-attestation wearing a test runner, and the Institute does not recognize it.
+**9.15 Delegated invariants are reported unbound.** The suite never reports as checked an invariant it does not execute. An invariant bound to implementation or instrument is reported as delegated and unbound until something cites its identifier, and the Institute counts it as unsatisfied for every purpose these bylaws give conformance, other than adoption under §9.2. The count of bound and unbound invariants is published with each run. Reporting a delegated invariant as passing is self-attestation wearing a test runner, and the Institute does not recognize it.
 
 **9.16 Amending the registry.** A change to the registry — adding an invariant, retiring one, or altering its identifier, anchor, or binding — is an amendment of the official document and is made under §9.2. An identifier once issued is never reused; a retired identifier stays retired, and where an invariant descends from a retired one, the registry records the lineage.
 
 **9.17 Maintaining the suite.** Repairs to the suite that leave every identifier, anchor, and binding unchanged are ordinary maintenance, made in the open in the Governance Federation Channel and requiring no ballot. Any member may propose a repair, and any member may run the suite: it is published and executable by anyone under §9.4, and a result no one outside the Institute can reproduce is not a result.
 
 **9.18 A failing suite is business.** If the suite fails against the current official document, the failure is entered in the open-questions document under §9.3 and stands as business in the Governance Federation Channel until it is resolved by repair of the suite or by amendment of the document. While a failure stands, the Institute recognizes no conformance claim, membership condition, or publication as satisfied by the invariant the failure touches.
+
 ---
 
 ## Article X — Member Duties
 
 **10.1 Orchestrator Specific.**
-**Economic Orchestration** Provide operators with covenant adjudicated cross-platform information markets based on protocol; 
-**Protocol Involvement** Maintain continuous integration, continuous development (CI/CD) that improves governance and maintains protocol; 
-**Covenant Compliance** Serve bi-directional Covenant layer assessments at all points where orchestrators and operators exchange information or materials, according to §9.10.
 
-**10.2 Operator Specific.** 
-**Protocol Orchestration** Provide prosumers (users) with covenant adjudicated socioeconomic markets based on protocol;
-**Orchestration Link** When able, link prosumer communities by broadcasting to an orchestrator; 
-**Protocol Involvement** maintain CI/CD that improves governance and maintain the protocol; 
-**Covenant Compliance** Serve bi-directional Covenant layer assessments at all points where orchestrators and operators exchange information or materials according to §9.10, adjudicate covenant breeches between prosumers and execute the remedies an adjudication yields.
-**Defaults** annotate defaults on the record by kind — deceased, departed, or adjudicated, unknown — never erasing them; publish the platform's trailing default rate — dead credit created over a recent rolling window as a share of trade volume.
-**Credit Setting** When using mutual credit, set the community-wide credit limit: one number for everyone, never set per member, and never derived from reputation
-**Custody** Where prosumer funds or collateral are held, disclose in the platform's published rules who holds them, on what terms, and how a prosumer recovers them if the platform ceases to operate; name every third-party processor or custodian in the chain, whether or not the platform touches the funds itself. Escrow is the one stage at which a prosumer's position does not survive the operator, so the trust it requires is answered by disclosure and exit: undisclosed custody is a failure of duty under §10.6 and grounds for referral under §12.3.
-**Witnesses** Maintain a ledger of protocol transmissions and pay two randowm witnesses from the substrate layer to monitor the same. 
-**Ledger.** Maintain third party observation of covenant mediated interactions. 
-**Governance Access** Provide prosumers a function in the platform frontend to join, raise business in, and vote in the Governance Federation Channel under §4.4, and never cast or direct those votes.
+**Economic Orchestration.** Provide operators with cross-platform transport and covenant-assessment service based on protocol, without adjudicating;
+
+**Protocol Involvement.** Maintain continuous integration, continuous development (CI/CD) that improves governance and maintains protocol;
+
+**Covenant Compliance.** Serve bi-directional Covenant layer assessments at all points where orchestrators and operators exchange information or materials, according to §9.10.
+
+**10.2 Operator Specific.**
+
+**Protocol Orchestration.** Provide prosumers (users) with covenant adjudicated socioeconomic markets based on protocol;
+
+**Orchestration Link.** When able, link prosumer communities by broadcasting to an orchestrator;
+
+**Protocol Involvement.** Maintain CI/CD that improves governance and maintains the protocol;
+
+**Covenant Compliance.** Serve bi-directional Covenant layer assessments at all points where orchestrators and operators exchange information or materials according to §9.10, adjudicate covenant breaches between prosumers, and execute the remedies an adjudication yields.
+
+**Defaults.** Annotate defaults on the record by kind — deceased, departed, adjudicated, or unknown — never erasing them; publish the platform's trailing default rate — dead credit created over a recent rolling window as a share of trade volume.
+
+**Credit Setting.** When using mutual credit, set the community-wide credit limit: one number for everyone, never set per member, and never derived from reputation.
+
+**Custody.** Where prosumer funds or collateral are held, disclose in the platform's published rules who holds them, on what terms, and how a prosumer recovers them if the platform ceases to operate; name every third-party processor or custodian in the chain, whether or not the platform touches the funds itself. Escrow is the one stage at which a prosumer's position does not survive the operator, so the trust it requires is answered by disclosure and exit: undisclosed custody is a failure of duty under §10.6 and grounds for referral under §12.3.
+
+**Witnesses.** Maintain a ledger of protocol transmissions, and pay at least two independent witnesses, assigned by the substrate market, to monitor it.
+
+**Ledger.** Maintain third party observation of covenant mediated interactions.
+
+**Governance Access.** Provide prosumers a function in the platform frontend to join, raise business in, and vote in the Governance Federation Channel under §4.4, and never cast or direct those votes.
 
 **10.3 Substrate Commitment.** Purchase storage and processing from a federated Substrate Market or provide your own storage and processing capacity
 
-**10.4 Adjudication is rated.** Whoever adjudicates is rated on their conduct by both prosumers involved, and the ratings are displayed as the count of outcomes at each rating level, never as one number as a reflection of the entire platform or the witness when witnesses adjudicate.
+**10.4 Adjudication is rated.** Wherever adjudication occurs, the parties to it rate the adjudicator on their conduct — on a platform, the operator; across platforms, the adjudicating witnesses — and the ratings are displayed as the count of outcomes at each rating level, never as one number, whether for a platform or for a witness.
 
 **10.5 Dispute windows.** Where an Economy & Information category protocol is silent on its dispute window, the operator's published platform rules set the default window.
 
-**10.6 Failure of duties.** Persistent failure of the duties of §§10.1–10.3 is a covenant matter first — adjudicated, rated, and disciplined by the market's cheap exit — and a membership matter only where it amounts to loss of a §3.2 condition or grounds for referral under §12.3.
+**10.6 Failure of duties.** Persistent failure of the duties of §§10.1–10.3 is a covenant matter first — adjudicated, rated, and disciplined by the market's cheap exit — and a membership matter only where it amounts to loss of a condition in §3.2(b)–(e), or where these bylaws name the failure as grounds for referral under §12.3.
 
-**10.7 No institutional routing.** The Institute does not supervise, ratify, or pre-clear operators' economic management. The checks are the architecture's own: filings that land on the public chain the moment they are made, publicly adjudicatied reputation, published limits and default rates, and prosumers' freedom to leave.
+**10.7 No institutional routing.** The Institute does not supervise, ratify, or pre-clear operators' economic management. The checks are the architecture's own: filings that land on the public chain the moment they are made, publicly adjudicated reputation, published limits and default rates, and prosumers' freedom to leave.
 
-**10.8 Copyleft Reporting.** Compliance with the GNU Affero General Public License, copyleft sharing principles
+**10.8 Copyleft Reporting.** Comply with the GNU Affero General Public License and its copyleft terms.
 
 **10.9 Who adjudicates.** An apparent covenant breach between prosumers of the same platform is adjudicated by that platform's operator, as §10.2 provides. A dispute that crosses platforms is adjudicated at the witness layer, by the witnesses of the exchange in question, and never by either operator: neither is neutral between its own prosumer and another's. Adjudicating witnesses are rated on their conduct under §10.4 exactly as an operator is, and the dispute-mechanics design provides the procedure.
 
@@ -274,11 +288,11 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **11.1 The gate.** Deployments begin with escrow as the default transaction formatting — collateralized, no negative balances, and no counterparty credit extended. The only trust escrow requires is in the operator's custody of the funds, which §10.2 requires the operator to disclose.
 
-A deployment switches to a hybrid or full mutual credit system only when all three of the following are true: the operator has built the capacity to manage the stage it is entering, in accordance with local laws; the prosumer network has been notified under §11.3; and the publication required by §11.2 has been made. Until all three are true the switch is not gated, whatever else has been done, and each of the three is a condition of this section for the purposes of §11.4.
+A deployment switches to a hybrid or full mutual credit system only when all three of the following are true: the operator has built the capacity to manage the stage it is entering, in accordance with local laws; the prosumer network has been notified under §11.3; and the publication required by §11.2 has been made. Until all three are true, the switch may not take effect, whatever else has been done, and each of the three is a condition of this section for the purposes of §11.4.
 
 **11.2 Publication is the act.** Publication to the governance registry of the local authorizations to provide mutual credit services — or, where the jurisdiction requires none, of a finding to that effect — is itself the operative act, and authorizes mutual credit transactions across orchestrators. A finding that no authorization is required is an assertion on the record, contestable under §11.4 like any other condition of the gate. 
 
-**11.3 Notification.** The applicable federation must be notified when an operator gives notice to prosumers, no less than thirty days before the switch takes effect.
+**11.3 Notification.** The operator notifies its prosumers and the applicable federation, both at least thirty days before the switch takes effect.
 
 **11.4 Challenges to Local Compliance.** Any member, or any prosumer of the deployment, may challenge whether the conditions of §11.1 were in fact met, through the procedure of Article XII.
 
@@ -288,27 +302,31 @@ A deployment switches to a hybrid or full mutual credit system only when all thr
 
 ## Article XII — Discipline, Expulsion, Readmission, and Appeals
 
-**12.1 What only the Governance Layer may do.** The Office of the Vice President enforces these bylaws across the stack by exercising the following powers.
+**12.1 What only the Governance Layer may do.** The office of the Vice President enforces these bylaws across the stack through the design of the Governance layer frontend and the public reporting of audits, and by exercising the powers that follow.
 
-**12.2 Audits.** Confirmation of the official record against orchestrators, witnessess, and prosumer records as well as the executed code. The Governance and adjacent Federation(s) involved in an issue may agree to commission hardware inspections.    
+**12.2 Audits.** Confirmation of the official record against the records of orchestrators, witnesses, and prosumers, and against the executed code. The office of the Vice President reports each audit publicly, honoring §2.4. The Governance and adjacent Federation(s) involved in an issue may agree to commission hardware inspections.
 
-**12.3 Expulsion referrals.** An adjudicator's referral of expulsion is filed with the governance federation's frontend channel. The channel decides the expulsion by majority of votes cast. Expulsion is recorded by annotation in the governance registry. While expulsion from a frontend platform does not bar a prosumer or operator from joining another platform or orchestrator, it does not stop an operator or orchestrator from baring them.   
+**12.3 Expulsion and bar.**
 
-**12.4 What expulsion reaches.** Expulsion does not erase history; the expelled party's record stands, annotated. It does not reach what the architecture guarantees: a member's positions and history survive any frontend, and a community's records survive any operator or orchestrator.
+(a) **Expulsion.** Expulsion is the loss of a member's right to vote in the Institute, for a term of up to ten weeks. An adjudicator's referral of expulsion is filed with the Governance Federation Channel, whose members decide it and its term by majority of votes cast under §6.5. Expulsion is recorded by annotation in the governance registry, and the expelled member may appeal it under §12.5. When the term ends, the member's readmission is docketed under §12.5(b) without need of a petition; a denial continues the suspension for a further term of up to ten weeks.
 
-**12.5 The appeal and readmission procedure.** An individual member blocked from rejoining a specific platform or orchestrator may appeal a trust suspension, a challenge under §11.4, a petition for readmission after suspension, or a petition for re-entry by an expelled or banned operator proceeds as follows:
+(b) **Bar.** A bar is the loss of a party's ability to operate on one specific platform. An operator may bar a prosumer from prosumer activity on its platform only on at least three adjudicated −1 ratings of that prosumer, attached as evidence and submitted to the Governance Federation Channel by reference and hash under §2.4; the platform software refuses a bar without them.
+
+**12.4 What expulsion and a bar reach.** Expulsion bars no one from any platform, and a bar reaches only the platform that imposed it. Neither erases history: the record of the expelled or barred party stands, annotated, and survives both because six parties hold it. Neither reaches what the architecture guarantees: a member's positions and history survive any frontend, and a community's records survive any operator or orchestrator.
+
+**12.5 The appeal and readmission procedure.** Any member, and any party with standing under §4.1 or §11.4, may bring an appeal of a trust suspension, an appeal of an expulsion, a challenge under §11.4, a petition for readmission after suspension or expulsion, or a petition for re-entry by an expelled or barred operator. Each proceeds as follows:
 
 (a) **Submission.** The petition is submitted to the office of the Vice President. It contains no personally identifying information; parties and exchanges are cited by reference and hash.
 
-(b) **Rating period.** The office dockets the petition in the concerned federation channel for a one-week rating period.
+(b) **Rating period.** The office of the President dockets the petition in the concerned federation channel for a one-week rating period, and keeps the ratings for its study of the covenant's effects on users under §8.2. An appeal of expulsion is decided no later than seven days after its submission.
 
-(c) **Ratings.** Each member of the federation may cast one covenant rating of the offense, on the scale of §9.9, whose lowest rating is −1.
+(c) **Ratings.** Each member of the federation may cast one covenant rating of the offense, on the scale of §9.9, in the governance relation of §9.10(d). A −1 carries the justifying comment that §9.10(b) requires, of up to five hundred words.
 
-(d) **Decision.** If the mode of the ratings cast is −1, the petition is denied and readmission is barred. Otherwise the federation's delegate decides the petition on the record of the ratings cast, and decides it likewise where no ratings are cast. No petition is granted automatically. 
+(d) **Decision.** If the mode of the ratings cast is −1, the petition is denied and readmission is refused. Otherwise the federation's delegate decides the petition on the record of the ratings cast, and decides it likewise where no ratings are cast. No petition is granted automatically.
 
 (e) **Resubmission.** A denied petitioner may resubmit after a ten-week cooldown.
 
-(f) **Same path for operators.** A banned or expelled operator re-enters by this same path; upon a granted petition, recognition under §3.3 proceeds on its ordinary ministerial terms.
+(f) **Same path for operators.** A barred or expelled operator re-enters by this same path; upon a granted petition, recognition under §3.3 proceeds on its ordinary ministerial terms.
 
 ---
 
@@ -352,11 +370,15 @@ A deployment switches to a hybrid or full mutual credit system only when all thr
 
 ## Article XVI — Transition
 
-**16.1 Bootstrap.** The Network Theory Applied Research Institute is currently administered by a founder board developing the initial JFA stack. Until independent orchestrators/operators recognized under §3.3 are elected to hold federation representation, the founder board exercises the powers of the membership. Each act taken under this authority is recorded in the governance registry as a bootstrap act. Bootstrap acts remain valid but stand open to the membership under §2.3 like any other decision.
+**16.1 Bootstrap.** The Network Theory Applied Research Institute is currently administered by a founder board of no fewer than three and no more than five directors, developing the initial JFA stack. Until independent members recognized under §3.3 are elected to hold federation representation, the founder board serves as the Board and exercises the powers of the membership. Each act taken under this authority is recorded in the governance registry as a bootstrap act. Bootstrap acts remain valid but stand open to the membership under §2.3 like any other decision.
 
-**16.2 End of bootstrap.** The founder board shall be dissolved upon the election of representatives from no less than three federations. Representatives elected before the threshold shall share power with the founder board. Federations must provide E&I and orchestration services before being eligible to elect a representative. A single operator/orchestrator, whether individual or corporation may not elect themselves as a representative.
+**16.2 End of bootstrap.** The founder board shall be dissolved by the election of representatives from each federation. Representatives elected before the threshold shall share power with the founder board. A single operator/orchestrator, whether individual or corporation, may not elect themselves as a representative. Federations must meet the following criteria:
 
-**16.3 The Governance channel during bootstrap.** The service prerequisite of §16.2 is written for federations that sell a service, and the Governance federation sells none: it hosts the instrument by which the others are governed. It is therefore eligible to elect its representative when two things are true — a recognized operating member hosts the governance platform, and the function of §4.4 is live on at least one federated platform, so that prosumers can be recognized under §3.8 and vote. Where the Governance federation holds a single operating member, the bar of §16.2 on electing oneself is satisfied by the prosumer members' votes, which that host neither casts nor directs (§4.5); a Governance federation of one operating member and no prosumer members elects no one. The founder board records in the governance registry, as a bootstrap act, the date the channel opened and the roll it then held.
+- **Coded** — each tier (protocol, orchestration and frontend) must be fully coded
+- **Tested** — each tier must be tested against adversarial conditions
+- **Published** — each tier must be published in a governance repository according to internal policy
+
+**16.3 The Governance channel during bootstrap.** The Governance federation hosts the instrument by which the others are governed, and its protocol tier is the Institute itself, so the criteria of §16.2 bind its orchestration and frontend tiers. It is eligible to elect its representative when those tiers meet them and two further things are true — a recognized operating member hosts the governance platform, and the function of §4.4 is live on at least one federated platform, so that prosumers can be recognized under §3.8 and vote. Where the Governance federation holds a single operating member, the rule of §16.2 against electing oneself is satisfied by the prosumer members' votes, which that host neither casts nor directs (§4.5); a Governance federation of one operating member and no prosumer members elects no one. The founder board records in the governance registry, as a bootstrap act, the date the channel opened and the roll it then held.
 
 ---
 
