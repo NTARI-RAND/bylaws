@@ -395,30 +395,32 @@ A deployment switches to a hybrid or full mutual credit system only when all thr
 | §2.3, §6.7 | No decision permanently closed | Concept triage, 2026-08-24 resolutions; bylaws-level per 2026-08-27 revision |
 | §2.4, §12.5(a) | Privacy floor; no PII in filings | Official document, line 7 (L7); open questions §2, §7 |
 | §2.5, §10.2 (Defaults), §12.4 | Append-only; forgive by annotation, never erasure | Official document, line 6 (L6) |
-| §3.1 | Membership obtained by operating a federated instance | Official document, Governance Layer, orchestrator tier |
-| §3.2(b) | Two-witness minimum; "unfederated" label below it | Official document, Record Layer (REC-witness-minimum); open questions §4 |
+| §3.1 | Membership obtained by operating a federated instance or by participating as a prosumer on a federated platform | Official document, Governance Layer, orchestrator tier |
+| §3.2(b) | At least two independent witnesses, assigned by the substrate market and paid by the operator; "unfederated" label below two | Official document, Record Layer (REC-witness-minimum); open questions §4; consistency review I-25 |
 | §3.2(c) | Hashes committed to one public chain across the substrate | Official document, Record Layer (REC-public-chain) |
 | §3.4, §6.5 | One vote per member in each federation; headcount decides within a federation and never beyond it; weight never bought | Official document, line 2 (L2), applied to governance; §2.1 |
 | §3.8, §4.2 | Prosumer standing ripens into Governance-layer membership; the vote comes with it | Structure article, "Between Federations"; §2.1 |
 | §4.5, §10.2 (Governance Access) | The vote is the prosumer member's own; blocs visible on the record | Official document, line 2 (L2), applied to governance |
 | §5.1 | Members organized by the layer(s) they operate | Structure article, "Between Federations" |
 | §5.3, §5.7, §7.1 | Federations electing recallable delegates; one federation, one delegate, one vote; mandate recorded beside the vote cast | Concept triage, carried (bylaws-level per 2026-08-27 revision) |
-| §5.6 | Leaveable venues, record exportable whole; venue designated by board policy, interim status and committed exit in the bylaws | Official document, line 11 (L11); P1-001 v8.0 §3.2 |
+| §5.6 | Leaveable venues, record exportable whole; venue designated by board policy, which names it, states its interim status, and records the committed exit | Official document, line 11 (L11); P1-001 v8.0 §3.2; venue policy P1-005 |
 | §6.1, §6.3 | Continuous session; asynchronous voting windows; no vote assignment | P1-001 v8.0 §§2.3, 3.9 (imported 2026-08-31) |
 | §6.9 | Deliberation procedure held to the covenant harm rule; workflow lives with the venue | P1-001 v8.0 §6.3; bylaws §9.10(b); §14.7 |
 | §7.1, §8.3 | Candidacy open to the electing body; directors are its delegates | Concept triage, carried (recallable delegates) |
+| §7.2, §7.3, §8.1 | Five federation-bound directors after bootstrap, elected continuously; a federation with a vacant office conducts no other business | Consistency review, September 2026 (I-02, I-03) |
 | §7.4 | Continuous board action by written consent | KRS 273.375; P1-001 v8.0 Appendix B (P1-003) |
-| §8.2 | Covenant RAND; LBTAS API serving compliant assessments to the network | Official document, Covenant Layer |
-| §9.2 | Official document amended by a majority of delegates, and not adopted until the conformance suite passes | Structure article, "Legibility, mechanized"; §2.2 |
+| §8.2 | Covenant R&D; LBTAS API serving compliant assessments; study of the covenant's effects on users, including the §12.5 ratings | Official document, Covenant Layer; consistency review I-17, I-19 |
+| §8.3, §8.6, §12.1 | Vice President oversees the Governance frontend and enforces through frontend design and public audit reports; Workspace Administrator provides governance-platform services; responsibility shared | Consistency review, September 2026 (I-15) |
+| §9.2 | Official document amended by a majority of delegates, and not adopted until the conformance suite passes; document-bound invariants decide adoption | Structure article, "Legibility, mechanized"; §2.2 |
 | §9.3 | Living open-questions document | Concept triage, carried (meta) |
-| §9.4 | AGPL-3 software, CC BY-SA specification, copyleft commons | Official document, Introduction and footer |
+| §9.4 | AGPL-3.0-or-later software, CC BY-SA 4.0 specification, copyleft commons | Official document, Introduction and footer |
 | §9.6 | Conformance recognized only with registry-citing tests; else self-attested | Structure article, "Legibility, mechanized"; dispute-mechanics design §7 |
 | §9.7 | Institute never a counterparty, custodian, or clearer | Official document, line 5 (L5) |
 | §9.8, §9.9 | The covenant layer is LBTAS; six ordinal levels, −1 through +4 | Official document, Covenant Layer |
 | §9.10(a) | Reputation is never explicit: the platform publishes the record, the reader derives the reputation | Official document, line 8 (L8) |
 | §9.10(b) | −1 is the breach, surfaced and comment-justified; hash only in the shared record | Official document, lines 7 and 8 (L7, L8); dispute-mechanics design §4 |
 | §9.10(c) | Bidirectional, symmetric assessment; dismissal by annotation | Official document, line 6 (L6); dispute-mechanics design §3 |
-| §9.10(d) | Relations typed and never collapsed; profiles declare their own | Record model, profile row 4 (relation types) |
+| §9.10(d) | Relations typed and never collapsed; profiles declare their own; §12.5 ratings carry a governance relation the President's office declares | Record model, profile row 4 (relation types); consistency review I-19 |
 | §9.10(e) | Reputation decides whether, the community-wide limit decides how much | Official document, line 9 (L9) |
 | §9.10(f) | Reputation is per-platform; portability is a governance decision | Open questions §5 (reputation portability) |
 | §9.11 | The chart is the display — tallies by level and category, never a score | Official document, line 8 (L8); LBTAS integration guide (display rules) |
@@ -431,24 +433,24 @@ A deployment switches to a hybrid or full mutual credit system only when all thr
 | §10.2 (Covenant Compliance) | Bidirectional covenant assessment at every exchange point; operator adjudicates and executes remedies | Official document, Covenant Layer; dispute-mechanics design §§3, 4 |
 | §10.2 (Credit Setting) | Community-wide limit, one number, never derived from reputation | Official document, line 9 (L9) |
 | §10.2 (Custody) | Custody disclosed, since escrow is where L12's guarantee does not reach | Official document, line 10 (L10); §2.2 (a power names its check) |
-| §10.2 (Witnesses, Ledger) | Two compensated witnesses; third-party observation of covenant-mediated exchange | Official document, Record Layer (REC-witness-work); open questions §6 |
+| §10.2 (Witnesses, Ledger) | At least two compensated witnesses, assigned by the substrate market; third-party observation of covenant-mediated exchange | Official document, Record Layer (REC-witness-work); open questions §6 |
 | §10.3 | Substrate purchased from a federated market or self-provided | Official document, Substrate Layer |
-| §10.4 | Adjudicators rated; distribution display, never one number | Dispute-mechanics design §§1, 3; official document, line 8 (L8) |
+| §10.4 | Adjudicators rated by the parties to the adjudication; distribution display, never one number | Dispute-mechanics design §§1, 3; official document, line 8 (L8) |
 | §10.5 | Operator's published rules set the default dispute window | Dispute-mechanics design §2 |
 | §10.7 | No institutional routing; the architecture's own checks discipline | Dispute-mechanics design §1 |
 | §10.9 | Operator adjudicates within a platform; witnesses adjudicate across it | Official document, Covenant Layer (COV-operators-adjudicate, COV-witness-adjudication); dispute-mechanics design §3 |
 | Art. XI | Escrow start; capacity, notice, and publication all gating, all challengeable | Official document, line 10 (L10) |
 | §11.5 | Hybrid stage definition by reference only | Open questions §5 (EI-hybrid retired to companion article) |
-| §12.1 | Only the governance layer expels | Dispute-mechanics design §4 |
+| §12.1 | Only the governance layer expels; the Vice President enforces through frontend design and public audit reports | Dispute-mechanics design §4; consistency review I-15 |
 | §12.2 | Audit of the record against orchestrators, witnesses, prosumers, and executed code | Dispute-mechanics design §§6, 7 |
-| §12.3 | Expulsion is platform-local; the record stands annotated | Dispute-mechanics design §4 |
+| §12.3 | Expulsion suspends the vote for up to ten weeks; a bar is platform-local and rests on three adjudicated −1 ratings; records survive both | Dispute-mechanics design §4; consistency review I-04, I-21 |
 | §12.4, §13.2 | Positions and records survive frontends, operators — and the steward | Official document, line 12 (L12) |
-| §12.5 | VP venue, one-week federation rating, one rating each, mode −1 bars, delegate decides on silence, ten-week cooldown, same path for banned operators | Open questions §7 |
+| §12.5 | Submission to the Vice President; one-week rating administered by the President; one rating each, a −1 with its comment; mode −1 refuses; delegate decides on silence; seven-day expulsion appeal; ten-week cooldown; same path for barred operators | Open questions §7; consistency review I-01, I-04, I-06, I-19 |
 | §13.1 | No single point whose removal stops the network | Official document, line 11 (L11) |
 | §14.7 | Lean instrument — lean, auditable code, applied to governance | Official document, Principles |
 | §15.1 | These bylaws amended by a majority of delegates, every member of each federation voting | §2.1; §2.2 (gravity); §7.5 |
-| §16.1, §16.2 | Bootstrap by founder board; each act recorded and open to challenge | Concept triage, 2026-08-24 (meta) |
-| §16.3 | Governance federation sells no service; the channel opens on a live §4.4 function | §16.2; §2.2 (gravity) |
+| §16.1, §16.2 | Bootstrap by a founder board of three to five; each act recorded and open to challenge; ends when every federation, coded, tested and published, elects | Concept triage, 2026-08-24 (meta); consistency review I-02, I-16 |
+| §16.3 | Governance federation's protocol tier is the Institute; the channel opens on a live §4.4 function | §16.2; §2.2 (gravity) |
 
 ---
 
