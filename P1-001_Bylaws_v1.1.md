@@ -138,7 +138,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **6.6 Open proceedings.** Assemblies and ballots are open to observation by prosumers and the public, subject to the privacy floor of §2.4.
 
-**6.7 Reopening a decided matter.** Any member may, by filing in the appropriate Federation Channel, bring any decided matter back before the body; the filing states what decision is challenged and what outcome is sought, and the matter enters the next assembly or ballot. If the body reaffirms its decision without change, the same member may not reopen the same matter for ninety days, unless the filing documents a harm that was not before the body when it decided; any other member may. A matter may not be argued using  verbiage that has been defeated more than once.  
+**6.7 Reopening a decided matter.** Any member may, by filing in the appropriate Federation Channel, bring any decided matter back before the body; the filing states what decision is challenged and what outcome is sought, and the matter enters the next ballot. If the body reaffirms its decision without change, the same member may not reopen the same matter for ninety days, unless the filing documents a harm that was not before the body when it decided; any other member may. A matter may not be argued using verbiage that has already been defeated more than once.  
 
 **6.8 Elections and recall.** Each director is elected and recalled by the federation to which §7.2 binds the office, by majority of votes cast in that federation under §6.5 — the Vice President by the Governance federation, in which prosumer members vote under §3.4. Recall requires no cause and takes effect immediately.
 
