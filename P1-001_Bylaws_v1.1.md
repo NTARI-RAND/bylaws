@@ -110,7 +110,7 @@ These principles are operative rules of interpretation. Every other provision of
 
 **5.3 Federation.** A federation is the community of the members of each layer (Substrate, Record, Covenant, Governance, and Economy & Information) — its operators and orchestrators, and in the Governance layer its prosumer members. Members join automatically through a console in the backend of JFA software produced by the Institute. Each federation elects one delegate, who is the director bound to that federation under §7.2. The delegate carries the federation's single vote in every matter these bylaws give to the delegates. A delegate is recallable at any time by vote of the federation that elected them, without cause and with immediate effect.
 
-**5.4 Officer Responsibilities.** Each officer of the Institute is filled by federation-elected delegates. The federation is the body through which the members continuously check that office: it observes the office's work, and its delegate acts for the office where these bylaws so provide, including §12.5(d).
+**5.4 Officer Responsibilities.** Each office of the Institute is filled by a federation-elected delegate. The federation is the body through which the members continuously check that office: it observes the office's work, and its delegate acts for the office where these bylaws so provide, including §12.5(d).
 
 **5.5 Federation records.** Orchestrators and operators keep append-only records of their proceedings under §2.5, honoring the privacy floor of §2.4.
 
@@ -170,7 +170,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **8.3 Vice President.** Elected by the Governance Federation, the office of the Vice President oversees the Governance layer frontend, shares responsibility for the governance platform with the office of the Workspace Administrator (§8.6), and enforces these bylaws with the powers specified in Article XII. Any member of that federation may stand for the office, prosumer members of §3.8 included. 
 
-**8.4 Secretary.** Elected by the Record Federation the Secretariat keeps governance records, performs the ministerial recognition of members under §3.3, maintains the governance registry of §9.5, receives and records the publications of Article XI, and issues the notices these bylaws require.
+**8.4 Secretary.** Elected by the Record Federation, the Secretariat keeps governance records, performs the ministerial recognition of members under §3.3, maintains the governance registry of §9.5, receives and records the publications of Article XI, and issues the notices these bylaws require.
 
 **8.5 Treasurer.** Elected by the Federation of Economy & Information, the office of the Treasurer keeps the accounts of the Institute, reports to the annual assembly, and complies with authorities referenced in §1.2.
 
@@ -180,7 +180,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 ## Article IX — Stewardship of the Architecture
 
-**9.1 What the Institute stewards.** The Institute stewards the official document and software stack of janus Facing Architecture, the conformance suite and its invariant registry, the concept triage record, and the living open-questions document. 
+**9.1 What the Institute stewards.** The Institute stewards the official document and software stack of the Janus Facing Architecture, the conformance suite and its invariant registry, the concept triage record, and the living open-questions document. 
 
 **9.2 Amending the official document.** The official document is amended only by a majority vote of the delegates, each federation having decided under §6.5. An amendment is not adopted until the conformance suite passes against the amended text; for this purpose the suite passes when every document-bound invariant (§9.14(a)) passes, and delegated invariants, reported unbound under §9.15, do not block adoption. A concept retired by the triage record stays retired unless the same act that reintroduces it amends the triage record and says so.
 
@@ -268,7 +268,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **Governance Access.** Provide prosumers a function in the platform frontend to join, raise business in, and vote in the Governance Federation Channel under §4.4, and never cast or direct those votes.
 
-**10.3 Substrate Commitment.** Purchase storage and processing from a federated Substrate Market or provide your own storage and processing capacity
+**10.3 Substrate Commitment.** Purchase storage and processing from a federated Substrate Market or provide your own storage and processing capacity.
 
 **10.4 Adjudication is rated.** Wherever adjudication occurs, the parties to it rate the adjudicator on their conduct — on a platform, the operator; across platforms, the adjudicating witnesses — and the ratings are displayed as the count of outcomes at each rating level, never as one number, whether for a platform or for a witness.
 
