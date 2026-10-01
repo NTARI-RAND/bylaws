@@ -234,6 +234,8 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **9.18 A failing suite is business.** If the suite fails against the current official document, the failure is entered in the open-questions document under §9.3 and stands as business in the Governance Federation Channel until it is resolved by repair of the suite or by amendment of the document. While a failure stands, the Institute recognizes no conformance claim, membership condition, or publication as satisfied by the invariant the failure touches.
 
+**9.19 The public chain's storage.** The Institute funds, from its ordinary funds under §9.7, substrate storage for the public-chain commitments of every exchange carried by an orchestrator, so that the record which binds communities to one another is paid for by none of them. The funding buys storage from the substrate market and never holds credit; it creates no host, account, or vendor relationship that §13.1 forbids, since the same entries are held by the parties to each exchange and any party may fund storage of the same chain; and it passes to the successor steward under §13.3. The Treasurer reports its cost with the accounts of §8.5. Commitments of exchanges not carried by an orchestrator are stored under §10.3 by the member that commits them.
+
 ---
 
 ## Article X — Member Duties
@@ -429,6 +431,7 @@ A deployment switches to a hybrid or full mutual credit system only when all thr
 | §9.16 | Registry changes are amendments; identifiers never reused | Conformance suite registry (lineage notes) |
 | §9.17 | Suite published and runnable by anyone; repairs need no ballot | Official document, Principles (lean, auditable) |
 | §9.18 | A failing suite is open business, not a silent pass | Concept triage, carried (meta); §9.3 |
+| §9.19 | The Institute funds substrate storage for the public-chain commitments of every orchestrated exchange; no credit held, no chokepoint, passes to the successor steward | Official document, Record Layer; principal's decision of 2026-10-01 |
 | §10.1, §10.2 | Orchestrator and operator duties; operator responsibility as the frame | Dispute-mechanics design §1 (bylaws-level per 2026-08-27 revision) |
 | §10.2 (Covenant Compliance) | Bidirectional covenant assessment at every exchange point; operator adjudicates and executes remedies | Official document, Covenant Layer; dispute-mechanics design §§3, 4 |
 | §10.2 (Credit Setting) | Community-wide limit, one number, never derived from reputation | Official document, line 9 (L9) |
