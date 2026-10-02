@@ -140,7 +140,7 @@ The equinox is the anchor because it belongs to no calendar: the year begins at 
 
 Within a federation, the matter is decided by a majority of votes cast by its members. A federation's ballot is valid when notice under §6.4 was given and at least one member casts; in the Governance federation, at least one operating member must be among them. A federation's small roll is not a defect to be cured by a higher bar: the record of each ballot states the roll the federation then held, so a thin decision is visible rather than hidden.
 
-Where these bylaws give a matter to a channel or a federation rather than to the Institute — including expulsion referrals under §12.3 and the petitions of §12.5 — that body decides it by the same internal majority and no delegate vote is taken.
+Where these bylaws give a matter to a channel or a federation rather than to the Institute — including expulsion referrals under §12.3 — that body decides it by the same internal majority and no delegate vote is taken. The petitions of §12.5 are decided as §12.5(d) provides.
 
 **6.6 Open proceedings.** Assemblies and ballots are open to observation by prosumers and the public, subject to the privacy floor of §2.4.
 
@@ -240,7 +240,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **9.18 A failing suite is business.** If the suite fails against the current official document, the failure is entered in the open-questions document under §9.3 and stands as business in the Governance Federation Channel until it is resolved by repair of the suite or by amendment of the document. While a failure stands, the Institute recognizes no conformance claim, membership condition, or publication as satisfied by the invariant the failure touches.
 
-**9.19 The public chain's storage.** The Institute funds, from its ordinary funds under §9.7, substrate storage for the public-chain commitments of every exchange carried by an orchestrator, so that the record which binds communities to one another is paid for by none of them. The funding buys storage from the substrate market and never holds credit; it creates no host, account, or vendor relationship that §13.1 forbids, since the same entries are held by the parties to each exchange and any party may fund storage of the same chain; and it passes to the successor steward under §13.3. The Treasurer reports its cost with the accounts of §8.5. Commitments of exchanges not carried by an orchestrator are stored under §10.3 by the member that commits them.
+**9.19 The public chain's storage.** The Institute funds, from its ordinary funds under §9.7, substrate storage for the public-chain commitments of every exchange carried by an orchestrator, so that the record which binds communities to one another is paid for by none of them. The funding buys storage from the substrate market and never holds credit; it creates no host, account, or vendor relationship that §13.1 forbids, since the same entries are held by the parties to each exchange and any party may fund storage of the same chain; and it passes to the successor steward under §13.3. The Treasurer reports its cost with the accounts of §8.5.
 
 ---
 
@@ -278,7 +278,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **10.3 Substrate Commitment.** Purchase storage and processing from a federated Substrate Market or provide your own storage and processing capacity.
 
-**10.4 Adjudication is rated.** Wherever adjudication occurs, the parties to it rate the adjudicator on their conduct — on a platform, the operator; across platforms, the adjudicating witnesses — and the ratings are displayed as the count of outcomes at each rating level, never as one number, whether for a platform or for a witness.
+**10.4 Adjudication is rated.** Wherever adjudication occurs, the parties to it rate the adjudicator on their conduct — the operator between its own prosumers; the adjudicating witnesses across platforms and between a prosumer and its own operator — and the ratings are displayed as the count of outcomes at each rating level, never as one number, whether for a platform or for a witness.
 
 **10.5 Dispute windows.** Where an Economy & Information category protocol is silent on its dispute window, the operator's published platform rules set the default window.
 
@@ -288,7 +288,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **10.8 Copyleft Reporting.** Comply with the GNU Affero General Public License and its copyleft terms.
 
-**10.9 Who adjudicates.** An apparent covenant breach between prosumers of the same platform is adjudicated by that platform's operator, as §10.2 provides. A dispute that crosses platforms is adjudicated at the witness layer, by the witnesses of the exchange in question, and never by either operator: neither is neutral between its own prosumer and another's. Adjudicating witnesses are rated on their conduct under §10.4 exactly as an operator is, and the dispute-mechanics design provides the procedure.
+**10.9 Who adjudicates.** An apparent covenant breach between prosumers of the same platform is adjudicated by that platform's operator, as §10.2 provides. A dispute that crosses platforms is adjudicated at the witness layer, by the witnesses of the exchange in question, and never by either operator: neither is neutral between its own prosumer and another's. A dispute between a prosumer and the operator of their own platform — over an exchange, custody, the credit limit, a stage change under Article XI, or a duty under this Article — is adjudicated by that platform's witnesses, and never by the operator, who is not neutral in its own case. Adjudicating witnesses are rated on their conduct under §10.4 exactly as an operator is, and the dispute-mechanics design provides the procedure.
 
 ---
 
@@ -330,7 +330,7 @@ A deployment switches to a hybrid or full mutual credit system only when all thr
 
 (c) **Ratings.** Each member of the federation may cast one covenant rating of the offense, on the scale of §9.9, in the governance relation of §9.10(d). A −1 carries the justifying comment that §9.10(b) requires, of up to five hundred words.
 
-(d) **Decision.** If the mode of the ratings cast is −1, the petition is denied and readmission is refused. Otherwise the federation's delegate decides the petition on the record of the ratings cast, and decides it likewise where no ratings are cast. No petition is granted automatically.
+(d) **Decision.** Where ratings are cast, they decide the petition: if their mode is −1, the petition is denied and readmission is refused; otherwise it is granted. Only where no ratings are cast does the federation's delegate decide the petition, on the record of the proceeding. No petition is granted automatically.
 
 (e) **Resubmission.** A denied petitioner may resubmit after a ten-week cooldown.
 
@@ -450,14 +450,14 @@ The Covenant federation is likewise eligible to elect its representative when it
 | §10.4 | Adjudicators rated by the parties to the adjudication; distribution display, never one number | Dispute-mechanics design §§1, 3; official document, line 8 (L8) |
 | §10.5 | Operator's published rules set the default dispute window | Dispute-mechanics design §2 |
 | §10.7 | No institutional routing; the architecture's own checks discipline | Dispute-mechanics design §1 |
-| §10.9 | Operator adjudicates within a platform; witnesses adjudicate across it | Official document, Covenant Layer (COV-operators-adjudicate, COV-witness-adjudication); dispute-mechanics design §3 |
+| §10.9 | Operator adjudicates between its own prosumers; witnesses adjudicate across platforms and between a prosumer and its own operator | Official document, Covenant Layer (COV-operators-adjudicate, COV-witness-adjudication); dispute-mechanics design §3 |
 | Art. XI | Escrow start; capacity, notice, and publication all gating, all challengeable | Official document, line 10 (L10) |
 | §11.5 | Hybrid stage definition by reference only | Open questions §5 (EI-hybrid retired to companion article) |
 | §12.1 | Only the governance layer expels; the Vice President enforces through frontend design and public audit reports | Dispute-mechanics design §4; consistency review I-15 |
 | §12.2 | Audit of the record against orchestrators, witnesses, prosumers, and executed code | Dispute-mechanics design §§6, 7 |
 | §12.3 | Expulsion suspends the vote for up to ten weeks; a bar is platform-local and rests on three adjudicated −1 ratings; records survive both | Dispute-mechanics design §4; consistency review I-04, I-21 |
 | §12.4, §13.2 | Positions and records survive frontends, operators — and the steward | Official document, line 12 (L12) |
-| §12.5 | Submission to the Vice President; one-week rating administered by the President; one rating each, a −1 with its comment; mode −1 refuses; delegate decides on silence; seven-day expulsion appeal; ten-week cooldown; same path for barred operators | Open questions §7; consistency review I-01, I-04, I-06, I-19 |
+| §12.5 | Submission to the Vice President; one-week rating administered by the President; one rating each, a −1 with its comment; the ratings decide, a −1 mode refusing and any other mode granting; the delegate decides only where no ratings are cast; seven-day expulsion appeal; ten-week cooldown; same path for barred operators | Open questions §7; consistency review I-01, I-04, I-06, I-19 |
 | §13.1 | No single point whose removal stops the network | Official document, line 11 (L11) |
 | §14.7 | Lean instrument — lean, auditable code, applied to governance | Official document, Principles |
 | §15.1 | These bylaws amended by a majority of delegates, every member of each federation voting | §2.1; §2.2 (gravity); §7.5 |
