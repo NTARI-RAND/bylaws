@@ -218,7 +218,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 (f) **Reputation is per-platform and non-portable by default.** Identifiers are platform-scoped key hashes; human-chosen identifiers are refused. Carrying standing across platforms is a decision of the membership, never a default of an implementation.
 
-**9.11 The LBTAS chart.** The LBTAS chart is the display method for covenant reputation. Within each category, the six levels — −1 through +4 — stand as the column titles, and beneath each column stands the tally of every rating that party has ever received at that level. The −1 column is marked in red, so the harm category is legible by color as well as by sign. The chart displays counts and the total; it displays no score. No column is pooled with another, no category is pooled with another, and no figure summarizing the chart into a single number appears on it or beside it. Where these bylaws make a decision turn on ratings, the mode of the ratings cast serves as the decision rule and is never displayed as a reputation.
+**9.11 The LBTAS chart.** The LBTAS chart is the display method for covenant reputation. Within each category, the six levels — −1 through +4 — stand as the column titles, and beneath each column stands the tally of every rating that party has ever received at that level. The −1 column is marked in red, so the harm category is legible by color as well as by sign. The chart displays counts and the total; it displays no score. No column is pooled with another, no category is pooled with another, and no figure summarizing the chart into a single number appears on it or beside it. Where these bylaws make a decision turn on ratings and set no other rule, as §12.3(b) does for a bar, the mode of the ratings cast serves as the decision rule and is never displayed as a reputation.
 
 **9.12 Reading is a privileged act.** Submitting a rating and reviewing accumulated records are separate capabilities, authorized separately, and authorization fails closed.
 
@@ -262,7 +262,7 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **Protocol Involvement.** Maintain CI/CD that improves governance and maintains the protocol;
 
-**Covenant Compliance.** Serve bi-directional Covenant layer assessments at all points where orchestrators and operators exchange information or materials according to §9.10, adjudicate covenant breaches between prosumers, and execute the remedies an adjudication yields.
+**Covenant Compliance.** Serve bi-directional Covenant layer assessments at all points where orchestrators and operators exchange information or materials according to §9.10, adjudicate covenant breaches between its own prosumers, and execute the remedies an adjudication yields.
 
 **Defaults.** Annotate defaults on the record by kind — deceased, departed, adjudicated, or unknown — never erasing them; publish the platform's trailing default rate — dead credit created over a recent rolling window as a share of trade volume.
 
@@ -450,7 +450,7 @@ The Covenant federation is likewise eligible to elect its representative when it
 | §10.4 | Adjudicators rated by the parties to the adjudication; distribution display, never one number | Dispute-mechanics design §§1, 3; official document, line 8 (L8) |
 | §10.5 | Operator's published rules set the default dispute window | Dispute-mechanics design §2 |
 | §10.7 | No institutional routing; the architecture's own checks discipline | Dispute-mechanics design §1 |
-| §10.9 | Operator adjudicates between its own prosumers; witnesses adjudicate across platforms and between a prosumer and its own operator | Official document, Covenant Layer (COV-operators-adjudicate, COV-witness-adjudication); dispute-mechanics design §3 |
+| §10.9 | Operator adjudicates between its own prosumers; witnesses adjudicate across platforms and between a prosumer and its own operator | Official document, Covenant Layer (COV-operators-adjudicate, COV-witness-adjudication; COV-operator-dispute-witnesses, proposed in official-document PR #15); dispute-mechanics design §3; principal's decision of 2026-10-02 |
 | Art. XI | Escrow start; capacity, notice, and publication all gating, all challengeable | Official document, line 10 (L10) |
 | §11.5 | Hybrid stage definition by reference only | Open questions §5 (EI-hybrid retired to companion article) |
 | §12.1 | Only the governance layer expels; the Vice President enforces through frontend design and public audit reports | Dispute-mechanics design §4; consistency review I-15 |
