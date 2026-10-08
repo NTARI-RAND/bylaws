@@ -2,7 +2,7 @@
 
 **P1-001 · Version 1.1 (draft) · pending adoption**
 
-Version 1.1 amends version 1.0 (adopted 2026-08-31) to resolve the September 2026 consistency review. It takes effect when adopted by the founder board as a bootstrap act under §16.1 and recorded in the governance registry under §9.5; version 1.0 stays in the record unchanged (§2.5). Version numbering restarted at 1.0 with the first instrument written to the Janus Facing Architecture, which superseded the P1-001 v6.0 through v8.0 line, archived rather than amended. Like every bootstrap act, this one stands open to the membership under §2.3.
+Version 1.1 amends version 1.0 (adopted 2026-08-31) to resolve the September 2026 consistency review and to carry Act 1 of the amendment plan of 2026-10-07. It takes effect when adopted by the founder board as a bootstrap act under §16.1 and recorded in the governance registry under §9.5; version 1.0 stays in the record unchanged (§2.5). Version numbering restarted at 1.0 with the first instrument written to the Janus Facing Architecture, which superseded the P1-001 v6.0 through v8.0 line, archived rather than amended. Like every bootstrap act, this one stands open to the membership under §2.3.
 
 ---
 
@@ -30,7 +30,7 @@ Janus Facing Architecture assigns this organization a precise seat: the protocol
 
 (d) to educate the public in the same.
 
-**1.5 Defined instruments.** In these bylaws, "the official document" means [janus-facing-architecture.md](../JFA/janus-facing-architecture.md) as stewarded by the Institute; "the twelve lines" means the section of the official document titled "The Lines That Cannot Be Crossed"; "the conformance suite" means the executable suite and invariant registry that verify the official document; "the dispute-mechanics design" means the design recorded in [jfa-dispute-mechanics.md](../JFA/jfa-dispute-mechanics.md).
+**1.5 Defined instruments.** In these bylaws, "the official document" means [janus-facing-architecture.md](https://github.com/NTARI-RAND/janus/blob/main/janus-facing-architecture.md) as stewarded by the Institute; "the twelve lines" means the section of the official document titled "The Lines That Cannot Be Crossed"; "the conformance suite" means the executable suite and invariant registry that verify the official document; "the dispute-mechanics design" means the design recorded in [jfa-dispute-mechanics.md](https://github.com/NTARI-RAND/janus/blob/main/jfa-dispute-mechanics.md).
 
 ---
 
@@ -40,7 +40,7 @@ These principles are operative rules of interpretation. Every other provision of
 
 **2.1 Shared Responsibility.** The community that coordinates is the same community that checks the coordination. The two functions are exchanged continuously among the members and are never split into rulers and ruled. No organ created by these bylaws may become a body that only decides and is never answerable.
 
-**2.2 Gravity.** Each layer of the architecture — and each organ of this Institute — is disciplined by the cost of leaving it. Where leaving is cheap, competition disciplines and these bylaws impose no gate. Where leaving is dear, the members vote. Where leaving is catastrophic, decisions stay open to challenge. Any provision of these bylaws that creates a power must name its check; a power whose check cannot be identified is void until the membership supplies one.
+**2.2 Gravity.** Each layer of the architecture — and each organ of this Institute — is disciplined by the cost of leaving it. Where leaving is cheap, competition disciplines and these bylaws impose no gate. Where leaving is dear, the members vote. Where leaving is catastrophic, decisions stay open to challenge. The cost of leaving is reckoned as it stands at the stage a deployment or an organ is in, not as it stood at entry: a check that was sufficient under escrow is not thereby sufficient under mutual credit. Any provision of these bylaws that creates a power must name its check; a power whose check cannot be identified is void until the membership supplies one.
 
 **2.3 No decision permanently closed.** No decision of the membership is permanently closed. Any member may bring a decided matter back before the body under §6.7.
 
@@ -58,7 +58,7 @@ These principles are operative rules of interpretation. Every other provision of
 
 (a) it is not in failure of any duty that §10.6 treats as a membership matter;
 
-(b) it has at least two independent witnesses, assigned by the substrate market and paid by the operator; an instance with fewer must label itself unfederated and does not qualify;
+(b) it has at least two standing witnesses, drawn and paid under §10.2 and independent under §3.10; an instance with fewer must label itself unfederated and does not qualify;
 
 (c) commits its hashes to the public chain distributed across the substrate;
 
@@ -76,13 +76,15 @@ These principles are operative rules of interpretation. Every other provision of
 
 **3.7 Continuous exchange of roles.** Every member is simultaneously a coordinator of the network and a checker of its coordination. No class of membership may be created whose function is only one of the two. Prosumer membership is not such a class: a prosumer member coordinates the network by transacting on it and checks that coordination by voting in the federation it has elected under §3.9.
 
-**3.8 Prosumer membership.** A prosumer of a federated platform is a member of the Institute in the Covenant federation or the Governance federation, as the member elects under §3.9, and in that federation alone, upon recognition under §3.3. Recognition requires at least one sealed exchange committed to the public chain, verified from the chain and never from an operator's assertion, and is reckoned per person rather than per account. Prosumer membership carries the vote of §3.4 and, according to the federation elected, the candidacy of §8.2 or §8.3, and no duty under Article X. A prosumer member decides every matter its federation decides, the amendment of these bylaws under §15.1 included — the governed hold the vote on the structure that governs them. Its weight is bounded not by subject matter but by the delegate channel of §5.3: each federation carries one vote of five however large its roll grows. It lapses when the member so elects, or when no sealed exchange of that member stands on a federated platform and none is restored within ninety days; lapse is recorded by annotation under §3.6.
+**3.8 Prosumer membership.** A prosumer of a federated platform is a member of the Institute in the Covenant federation or the Governance federation, as the member elects under §3.9, and in that federation alone, upon recognition under §3.3. Recognition requires sealed exchanges, committed to the public chain, with at least two distinct counterparties, verified from the chain and never from an operator's assertion, and is reckoned per person rather than per account. Prosumer membership carries the vote of §3.4 and, according to the federation elected, the candidacy of §8.2 or §8.3, and no duty under Article X. A prosumer member decides every matter its federation decides, the amendment of these bylaws under §15.1 included — the governed hold the vote on the structure that governs them. Its weight is bounded not by subject matter but by the delegate channel of §5.3: each federation carries one vote of five however large its roll grows. It lapses when the member so elects, or when no sealed exchange of that member stands on a federated platform and none is restored within ninety days; lapse is recorded by annotation under §3.6.
 
 **3.9 Election of a federation.** On recognition under §3.3, a prosumer member elects the Covenant federation or the Governance federation, and the Secretary records the election in the governance registry under §9.5. The election places the vote and the candidacy of §8.2 or §8.3, and nothing else: every right of Article IV is held in every federation and channel regardless of it, and a prosumer member is heard under §4.1(d) in the channel where a matter concerning them arose, whichever federation holds their vote.
 
-A prosumer member may change federations once each year. The option opens at 00:00 UTC on 17 March and closes at the instant of the March equinox in Coordinated Universal Time, which the Secretary publishes for the coming year from a standard astronomical ephemeris no later than the preceding equinox. Every change elected within the window takes effect at the equinox, when the Secretary records the new rolls under §9.5; outside the window the election stands. A change is the member's own act: no operator or orchestrator makes, directs, withholds, or conditions it, under §4.5.
+A prosumer member may change federations once each year. The option opens at 00:00 UTC on 17 March and closes at the instant of the March equinox in Coordinated Universal Time, which the Secretary publishes for the coming year from a standard astronomical ephemeris no later than the preceding equinox. Every change elected within the window takes effect at the equinox, when the Secretary records the new rolls under §9.5; outside the window the election stands. A change is the member's own act: no operator or orchestrator makes, directs, withholds, or conditions it, under §4.5. A member recognized again within a year of its lapse holds the federation it held before, until the next window opens.
 
 The equinox is the anchor because it belongs to no calendar: the year begins at different points in different cultures, and Earth's position in its orbit is the same for all of them.
+
+**3.10 Witness independence and eligibility.** A witness is independent of a platform when it is not the platform's operator, is not under common ownership or control with the operator, holds no interest in the operator, and is not a prosumer of that platform. A witness discloses any interest it holds in a party to a matter before acting on it and stands aside where the interest conflicts; the disclosure is recorded under §2.5. A member of the substrate is ineligible for any draw under §10.2 or §10.9 while the mode of the ratings of its adjudication conduct under §10.4 is −1; the mode is the decision rule §9.11 allows and is never displayed as a reputation. Independence is asserted on the record at the draw and is contestable under Article XII like any other condition.
 
 ---
 
@@ -138,13 +140,13 @@ The equinox is the anchor because it belongs to no calendar: the year begins at 
 
 **6.5 Quorum and majority.** A matter before the Institute is decided by the delegates, each federation casting one vote through its delegate under §5.3. The delegates' ballot is valid when at least three federations cast, and except where these bylaws require more the matter is decided by a majority of the votes cast.
 
-Within a federation, the matter is decided by a majority of votes cast by its members. A federation's ballot is valid when notice under §6.4 was given and at least one member casts; in the Governance federation, at least one operating member must be among them. A federation's small roll is not a defect to be cured by a higher bar: the record of each ballot states the roll the federation then held, so a thin decision is visible rather than hidden.
+Within a federation, the matter is decided by a majority of votes cast by its members. A federation's ballot is valid when notice under §6.4 was given and at least one member casts. In a federation with prosumer members, a matter carries only with a majority of the votes cast and a majority of the platforms whose prosumer members cast votes, each platform's position being the majority of its own prosumer members' votes; a prosumer member counts under the platform through whose function of §4.4 it took up membership. A federation's small roll is not a defect to be cured by a higher bar: the record of each ballot states the roll the federation then held, by platform where prosumer members cast, so a thin decision is visible rather than hidden.
 
 Where these bylaws give a matter to a channel or a federation rather than to the Institute — including expulsion referrals under §12.3 — that body decides it by the same internal majority and no delegate vote is taken. The petitions of §12.5 are decided as §12.5(d) provides.
 
 **6.6 Open proceedings.** Assemblies and ballots are open to observation by prosumers and the public, subject to the privacy floor of §2.4.
 
-**6.7 Reopening a decided matter.** Any member may, by filing in the appropriate Federation Channel, bring any decided matter back before the body; the filing states what decision is challenged and what outcome is sought, and the matter enters the next ballot. If the body reaffirms its decision without change, the same member may not reopen the same matter for ninety days, unless the filing documents a harm that was not before the body when it decided; any other member may. A matter may not be argued using verbiage that has already been defeated more than once.  
+**6.7 Reopening a decided matter.** Any member may, by filing in the appropriate Federation Channel, bring any decided matter back before the body; the filing states what decision is challenged and what outcome is sought, and the matter enters the next ballot. If the body reaffirms its decision without change, the same member may not reopen the same matter for ninety days, unless the filing documents a harm that was not before the body when it decided; any other member may.
 
 **6.8 Elections and recall.** Each director is elected and recalled by the federation to which §7.2 binds the office, by majority of votes cast in that federation under §6.5 — the President by the Covenant federation and the Vice President by the Governance federation, in each of which the prosumer members who have elected it vote under §3.4. Recall requires no cause and takes effect immediately.
 
@@ -270,13 +272,13 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **Custody.** Where prosumer funds or collateral are held, disclose in the platform's published rules who holds them, on what terms, and how a prosumer recovers them if the platform ceases to operate; name every third-party processor or custodian in the chain, whether or not the platform touches the funds itself. Escrow is the one stage at which a prosumer's position does not survive the operator, so the trust it requires is answered by disclosure and exit: undisclosed custody is a failure of duty under §10.6 and grounds for referral under §12.3.
 
-**Witnesses.** Maintain a ledger of protocol transmissions, and pay at least two independent witnesses, assigned by the substrate market, to monitor it.
+**Witnesses.** Maintain a ledger of protocol transmissions, monitored by two standing witnesses drawn at random from the federated Substrate Market by a draw seeded from the public chain, so that anyone may verify the draw under §4.1(a). An operator that provides its own substrate under §10.3 still draws its witnesses from the market; witnessing is never self-provided. Pay the market for witnessing as a service, at the fee fixed in the platform's published rules; the market assigns and pays the witnesses, and the operator pays no witness directly. Each standing seat is held for two years; the two seats are staggered so that one is redrawn each year, the redraw taking effect on the March equinox with the rolls of §3.9. A witness whose seat ends continues to hold and attest the record it observed. The fee for adjudication under §10.9 is likewise fixed in the published rules and never set per dispute.
 
 **Ledger.** Maintain third party observation of covenant mediated interactions.
 
 **Governance Access.** Provide prosumers the function of §4.4 in the platform frontend — to take up membership, to elect and change their federation under §3.9, and to raise business and vote in that federation's channel — and never cast or direct those votes.
 
-**10.3 Substrate Commitment.** Purchase storage and processing from a federated Substrate Market or provide your own storage and processing capacity.
+**10.3 Substrate Commitment.** Purchase storage and processing from a federated Substrate Market or provide your own storage and processing capacity. Whoever enrolls a prosumer as a substrate host discloses before enrollment that a residential connection's terms of service may bar compensated hosting, and that the host can read what its node computes.
 
 **10.4 Adjudication is rated.** Wherever adjudication occurs, the parties to it rate the adjudicator on their conduct — the operator between its own prosumers; the adjudicating witnesses across platforms and between a prosumer and its own operator — and the ratings are displayed as the count of outcomes at each rating level, never as one number, whether for a platform or for a witness.
 
@@ -284,11 +286,11 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **10.6 Failure of duties.** Persistent failure of the duties of §§10.1–10.3 is a covenant matter first — adjudicated, rated, and disciplined by the market's cheap exit — and a membership matter only where it amounts to loss of a condition in §3.2(b)–(e), or where these bylaws name the failure as grounds for referral under §12.3.
 
-**10.7 No institutional routing.** The Institute does not supervise, ratify, or pre-clear operators' economic management. The checks are the architecture's own: filings that land on the public chain the moment they are made, publicly adjudicated reputation, published limits and default rates, and prosumers' freedom to leave.
+**10.7 No institutional routing.** The Institute does not supervise, ratify, or pre-clear operators' economic management. Where a prosumer's exit from a deployment is cheap — under escrow, and under a hybrid deployment in which each prosumer chooses the terms it accepts under §11.5 — the checks are the architecture's own: filings that land on the public chain the moment they are made, publicly adjudicated reputation, published limits and default rates, and prosumers' freedom to leave. Where exit is dear — a deployment in full mutual credit, in which a prosumer's positive balance neither converts nor redeems and a negative one is owed — §2.2 requires a vote, and Article XI supplies it: the deployment's own prosumers ratify the switch under §11.1(d). The vote is theirs; no organ of the Institute is inserted in their place, and nothing in this section is a gate under §7.6.
 
 **10.8 Copyleft Reporting.** Comply with the GNU Affero General Public License and its copyleft terms.
 
-**10.9 Who adjudicates.** An apparent covenant breach between prosumers of the same platform is adjudicated by that platform's operator, as §10.2 provides. A dispute that crosses platforms is adjudicated at the witness layer, by the witnesses of the exchange in question, and never by either operator: neither is neutral between its own prosumer and another's. A dispute between a prosumer and the operator of their own platform — over an exchange, custody, the credit limit, a stage change under Article XI, or a duty under this Article — is adjudicated by that platform's witnesses, and never by the operator, who is not neutral in its own case. Adjudicating witnesses are rated on their conduct under §10.4 exactly as an operator is, and the dispute-mechanics design provides the procedure.
+**10.9 Who adjudicates.** An apparent covenant breach between prosumers of the same platform is adjudicated by that platform's operator, as §10.2 provides. A dispute that crosses platforms is adjudicated at the witness layer, by the witnesses of the exchange in question, and never by either operator: neither is neutral between its own prosumer and another's. A dispute between a prosumer and the operator of their own platform — over an exchange, custody, the credit limit, a stage change under Article XI, or a duty under this Article — is adjudicated by that platform's witnesses, and never by the operator, who is not neutral in its own case. Adjudicating witnesses are rated on their conduct under §10.4 exactly as an operator is, and the dispute-mechanics design provides the procedure. A split bench is answered by a third witness, drawn for the dispute alone by the draw of §10.2 and paid through the market only when a dispute arises: the bench is three for a dispute between a prosumer and the operator of its own platform — the platform's two standing witnesses and the drawn seat — and five for a dispute that crosses platforms, two standing witnesses from each platform and the drawn seat.
 
 ---
 
@@ -296,15 +298,27 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 
 **11.1 The gate.** Deployments begin with escrow as the default transaction formatting — collateralized, no negative balances, and no counterparty credit extended. The only trust escrow requires is in the operator's custody of the funds, which §10.2 requires the operator to disclose.
 
-A deployment switches to a hybrid or full mutual credit system only when all three of the following are true: the operator has built the capacity to manage the stage it is entering, in accordance with local laws; the prosumer network has been notified under §11.3; and the publication required by §11.2 has been made. Until all three are true, the switch may not take effect, whatever else has been done, and each of the three is a condition of this section for the purposes of §11.4.
+A deployment switches to a hybrid mutual credit system only when conditions (a) through (c) are all true, and to a full mutual credit system only when conditions (a) through (d) are all true:
+
+(a) the operator has built the capacity to manage the stage it is entering, in accordance with local laws;
+
+(b) the prosumer network has been notified under §11.3;
+
+(c) the publication required by §11.2 has been made; and
+
+(d) the deployment's prosumers have ratified the switch: in a ballot noticed to them under §11.3 and open for no less than one week, two-thirds of the votes cast were for the switch, and the votes cast number at least one-third of the deployment's prosumers with a sealed exchange committed to the public chain in the trailing ninety days. Each prosumer of the deployment — every person with a sealed exchange on the platform committed to the public chain, reckoned per person and never per account — holds one vote, cast in the platform frontend through the function of §4.4, and never cast, directed, withheld, or conditioned by the operator under §4.5. The ballot, the roll it was held on, and its result are published to the governance registry with the publication of §11.2.
+
+A hybrid deployment requires no ratification, because each prosumer chooses the terms it accepts under §11.5 and no prosumer's exit is made dear without its consent; a deployment moving from hybrid to full mutual credit satisfies (d) anew. Until every applicable condition is true the switch may not take effect, whatever else has been done, and each condition is a condition of this section for the purposes of §11.4.
 
 **11.2 Publication is the act.** Publication to the governance registry of the local authorizations to provide mutual credit services — or, where the jurisdiction requires none, of a finding to that effect — is itself the operative act, and authorizes mutual credit transactions across orchestrators. A finding that no authorization is required is an assertion on the record, contestable under §11.4 like any other condition of the gate. 
 
-**11.3 Notification.** The operator notifies its prosumers and the applicable federation, both at least thirty days before the switch takes effect.
+**11.3 Notification.** The operator notifies its prosumers and the applicable federation, both no less than thirty days before the switch takes effect. For a switch to full mutual credit, the notice states the days on which the ratification ballot of §11.1(d) opens and closes, and the switch takes effect no earlier than thirty days after the notice and no earlier than the ballot's close.
 
 **11.4 Challenges to Local Compliance.** Any member, or any prosumer of the deployment, may challenge whether the conditions of §11.1 were in fact met, through the procedure of Article XII.
 
-**11.5 Hybrid Systems.** In a hybrid deployment, escrow and mutual credit operate across the same system and each prosumer decides which they accept. Compliance with the standards of Article XI and notices of §11.3 is the qualification for hybrid system operation. 
+**11.5 Hybrid Systems.** In a hybrid deployment, escrow and mutual credit operate across the same system and each prosumer decides which they accept. Compliance with the standards of Article XI and notices of §11.3 is the qualification for hybrid system operation. Hybrid is the ordinary stage of a deployment beyond escrow.
+
+**11.6 Return.** The deployment's prosumers may return a full mutual credit deployment to hybrid at any time, by a majority of the votes cast in a ballot open at least one week and noticed under §11.3. The operator publishes with each switch how positions carry back to hybrid, and executes it on return.
 
 ---
 
@@ -406,7 +420,7 @@ The Covenant federation is likewise eligible to elect its representative when it
 | §2.4, §12.5(a) | Privacy floor; no PII in filings | Official document, line 7 (L7); open questions §2, §7 |
 | §2.5, §10.2 (Defaults), §12.4 | Append-only; forgive by annotation, never erasure | Official document, line 6 (L6) |
 | §3.1 | Membership obtained by operating a federated instance or by participating as a prosumer on a federated platform | Official document, Governance Layer, orchestrator tier |
-| §3.2(b) | At least two independent witnesses, assigned by the substrate market and paid by the operator; "unfederated" label below two | Official document, Record Layer (REC-witness-minimum); open questions §4; consistency review I-25 |
+| §3.2(b), §3.10 | At least two standing witnesses, drawn by a verifiable draw seeded from the public chain, paid by the market, and independent as defined; "unfederated" label below two | Official document, Record Layer (REC-witness-minimum, REC-witness-draw); open questions §4, §13; P1-001 amendment of 2026-09-22, items 13–14; amendment plan of 2026-10-07, item 1.4 |
 | §3.2(c) | Hashes committed to one public chain across the substrate | Official document, Record Layer (REC-public-chain) |
 | §3.4, §6.5 | One vote per member in each federation; headcount decides within a federation and never beyond it; weight never bought | Official document, line 2 (L2), applied to governance; §2.1 |
 | §3.8, §4.2 | Prosumer standing ripens into membership in the federation the member elects; the vote comes with it | Structure article, "Between Federations"; §2.1 |
@@ -445,14 +459,15 @@ The Covenant federation is likewise eligible to elect its representative when it
 | §10.2 (Covenant Compliance) | Bidirectional covenant assessment at every exchange point; operator adjudicates and executes remedies | Official document, Covenant Layer; dispute-mechanics design §§3, 4 |
 | §10.2 (Credit Setting) | Community-wide limit, one number, never derived from reputation | Official document, line 9 (L9) |
 | §10.2 (Custody) | Custody disclosed, since escrow is where L12's guarantee does not reach | Official document, line 10 (L10); §2.2 (a power names its check) |
-| §10.2 (Witnesses, Ledger) | At least two compensated witnesses, assigned by the substrate market; third-party observation of covenant-mediated exchange | Official document, Record Layer (REC-witness-work); open questions §6 |
+| §10.2 (Witnesses, Ledger) | At least two compensated witnesses on staggered two-year seats, drawn by a verifiable draw and paid by the market, never by the operator directly; third-party observation of covenant-mediated exchange | Official document, Record Layer (REC-witness-work, REC-witness-draw); open questions §6, §13 |
 | §10.3 | Substrate purchased from a federated market or self-provided | Official document, Substrate Layer |
 | §10.4 | Adjudicators rated by the parties to the adjudication; distribution display, never one number | Dispute-mechanics design §§1, 3; official document, line 8 (L8) |
 | §10.5 | Operator's published rules set the default dispute window | Dispute-mechanics design §2 |
-| §10.7 | No institutional routing; the architecture's own checks discipline | Dispute-mechanics design §1 |
+| §10.7 | No institutional routing, scoped to cheap exit; where exit is dear, §11.1(d) supplies the vote | Dispute-mechanics design §1; §2.2 (gravity); official document, line 10 (L10) |
 | §10.9 | Operator adjudicates between its own prosumers; witnesses adjudicate across platforms and between a prosumer and its own operator | Official document, Covenant Layer (COV-operators-adjudicate, COV-witness-adjudication; COV-operator-dispute-witnesses, proposed in official-document PR #15); dispute-mechanics design §3; principal's decision of 2026-10-02 |
-| Art. XI | Escrow start; capacity, notice, and publication all gating, all challengeable | Official document, line 10 (L10) |
-| §11.5 | Hybrid stage definition by reference only | Open questions §5 (EI-hybrid retired to companion article) |
+| Art. XI | Escrow start; capacity, notice, publication, and — for full mutual credit — the prosumers' ratification, all gating, all challengeable | Official document, line 10 (L10), which states minimums |
+| §11.1(d), §11.3, §11.6 | Ratification by the deployment's prosumers before full mutual credit — two-thirds of the votes cast, on a turnout of one-third of the prosumers active in the trailing ninety days — and a way back to hybrid by majority | §2.2 (gravity); official document, line 10 (L10); P1-001 amendment of 2026-09-22, items 1, 15, 17; amendment plan of 2026-10-07, item 1.5 |
+| §11.5 | Hybrid stage definition by reference; hybrid named the ordinary stage beyond escrow | Open questions §5 (EI-hybrid retired to companion article); amendment plan of 2026-10-07, item 1.5 |
 | §12.1 | Only the governance layer expels; the Vice President enforces through frontend design and public audit reports | Dispute-mechanics design §4; consistency review I-15 |
 | §12.2 | Audit of the record against orchestrators, witnesses, prosumers, and executed code | Dispute-mechanics design §§6, 7 |
 | §12.3 | Expulsion suspends the vote for up to ten weeks; a bar is platform-local and rests on three adjudicated −1 ratings; records survive both | Dispute-mechanics design §4; consistency review I-04, I-21 |
@@ -462,7 +477,9 @@ The Covenant federation is likewise eligible to elect its representative when it
 | §14.7 | Lean instrument — lean, auditable code, applied to governance | Official document, Principles |
 | §15.1 | These bylaws amended by a majority of delegates, every member of each federation voting | §2.1; §2.2 (gravity); §7.5 |
 | §16.1, §16.2 | Bootstrap by a founder board of three to five; each act recorded and open to challenge; ends when every federation, coded, tested and published, elects | Concept triage, 2026-08-24 (meta); consistency review I-02, I-16 |
-| §16.3 | Governance federation's protocol tier is the Institute; the Governance and Covenant channels open on a live §4.4 function | §16.2; §2.2 (gravity) |
+| §16.3 | Governance federation's protocol tier is the Institute; the Governance and Covenant channels open on a live §4.4 function; a prosumer federation counts toward ending bootstrap only with prosumer members from two federated platforms run by different operators | §16.2; §2.2 (gravity); amendment plan of 2026-10-07, item 1.3 |
+| §3.8 (counterparties), §6.5 (platform majority), §3.9 (lapse) | The franchise priced beside the seating: recognition on sealed exchanges with two distinct counterparties; a concurrent platform majority wherever prosumer members vote; no federation switching by lapse | Amendment plan of 2026-10-07, item 1.3; open questions §8 |
+| §10.3 (disclosure) | Host disclosure before enrollment: residential terms of service may bar compensated hosting, and a host can read what its node computes | P1-004 §5; official document, Substrate Layer (SUB-redundant-execution); amendment plan of 2026-10-07, item 1.8 |
 
 ---
 
