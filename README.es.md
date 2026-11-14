@@ -107,5 +107,4 @@ consignan en el registro de gobernanza conforme al §9.5.
 
 ## Licencia
 
-[AGPL-3.0](LICENSE), en concordancia con los términos de custodia de NTARI para
-el documento oficial.
+[AGPL-3.0](LICENSE), solo la versión 3, conforme a la [entrada 9 del registro de gobernanza](https://github.com/NTARI-RAND/governance-registry/blob/main/GOVERNANCE-REGISTRY.md). Las versiones de este repositorio desde el commit [`033f75d`](https://github.com/NTARI-RAND/bylaws/tree/033f75d) hasta el commit [`3276781`](https://github.com/NTARI-RAND/bylaws/tree/3276781) se publicaron bajo CC BY-SA 4.0 y siguen disponibles también bajo esa licencia. Las versiones anteriores se publicaron bajo AGPL-3.0.

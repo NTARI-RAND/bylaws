@@ -116,5 +116,4 @@ pi nasin lawa lon nasin pi kipisi §9.5.
 
 ## ken pi kepeken
 
-[AGPL-3.0](LICENSE). ni li sama nasin pi awen pona pi kulupu NTARI tawa lipu
-lawa JFA.
+[AGPL-3.0](LICENSE) (nanpa 3 taso), tan [lipu nanpa 9 pi lipu awen pi nasin lawa](https://github.com/NTARI-RAND/governance-registry/blob/main/GOVERNANCE-REGISTRY.md). lipu pi poki ni li kama lon nasin CC BY-SA 4.0 tan ante (commit) [`033f75d`](https://github.com/NTARI-RAND/bylaws/tree/033f75d) tawa ante [`3276781`](https://github.com/NTARI-RAND/bylaws/tree/3276781). lipu ni li awen kin lon nasin ni. lipu pi poki ni lon tenpo pini pi ante [`033f75d`](https://github.com/NTARI-RAND/bylaws/tree/033f75d) li kama lon nasin AGPL-3.0.
