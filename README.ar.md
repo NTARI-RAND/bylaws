@@ -101,4 +101,4 @@
 
 ## الترخيص
 
-رخصة [AGPL-3.0](LICENSE)، بما يطابق شروط رعاية NTARI للوثيقة الرسمية.
+رخصة [AGPL-3.0](LICENSE)، الإصدار 3 فقط، بموجب [القيد 9 في سجل الحَكامة](https://github.com/NTARI-RAND/governance-registry/blob/main/GOVERNANCE-REGISTRY.md). أمّا إصدارات هذا المستودع من الإيداع [`033f75d`](https://github.com/NTARI-RAND/bylaws/tree/033f75d) حتى الإيداع [`3276781`](https://github.com/NTARI-RAND/bylaws/tree/3276781) فقد نُشرت بموجب رخصة CC BY-SA 4.0، وتبقى متاحة بموجبها أيضاً. وقد نُشرت الإصدارات الأسبق بموجب رخصة AGPL-3.0.

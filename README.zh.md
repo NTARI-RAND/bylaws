@@ -97,4 +97,4 @@ JFA 为 NTARI 指定了一个明确的席位——治理层的协议层级：一
 
 ## 许可证
 
-[AGPL-3.0](LICENSE)，与 NTARI 对正式文件的托管条款一致。
+[AGPL-3.0](LICENSE)，仅限第 3 版，依据[治理登记册第 9 条](https://github.com/NTARI-RAND/governance-registry/blob/main/GOVERNANCE-REGISTRY.md)。本仓库自提交 [`033f75d`](https://github.com/NTARI-RAND/bylaws/tree/033f75d) 至提交 [`3276781`](https://github.com/NTARI-RAND/bylaws/tree/3276781) 的各版本以 CC BY-SA 4.0 发布，也继续以该许可证提供。更早的版本以 AGPL-3.0 发布。

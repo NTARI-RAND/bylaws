@@ -107,5 +107,4 @@ JFA, NTARI को एक सुनिश्चित स्थान प्र�
 
 ## लाइसेंस
 
-[AGPL-3.0](LICENSE), जो आधिकारिक दस्तावेज़ के लिए NTARI की न्यास-शर्तों के
-अनुरूप है।
+[AGPL-3.0](LICENSE), केवल संस्करण 3, [अभिशासन पंजिका की प्रविष्टि 9](https://github.com/NTARI-RAND/governance-registry/blob/main/GOVERNANCE-REGISTRY.md) के अंतर्गत। कमिट [`033f75d`](https://github.com/NTARI-RAND/bylaws/tree/033f75d) से कमिट [`3276781`](https://github.com/NTARI-RAND/bylaws/tree/3276781) तक इस रिपॉज़िटरी के संस्करण CC BY-SA 4.0 के तहत प्रकाशित हुए थे, और उस लाइसेंस के तहत भी उपलब्ध रहते हैं। उससे पहले के संस्करण AGPL-3.0 के तहत प्रकाशित हुए थे।

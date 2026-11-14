@@ -98,8 +98,6 @@ in the governance registry under §9.5.
 
 ## License
 
-[CC BY-SA 4.0](LICENSE) — the terms the
-[official document](https://github.com/NTARI-RAND/Janus) uses for the
-specification it publishes. An adopted instrument is a document, not software;
-AGPL-3.0 covers NTARI's software, including the conformance suite, and does not
-apply here.
+[AGPL-3.0](LICENSE), version 3 only (AGPL-3.0-only), under [governance registry Entry 9](https://github.com/NTARI-RAND/governance-registry/blob/main/GOVERNANCE-REGISTRY.md): NTARI's own work, documents and code alike, is licensed under AGPL-3.0 until a stronger copyleft appears. For an adopted instrument the Markdown file is the source; whoever passes on a rendered or printed copy must include the full license text (AGPL §4) and also make that source available (AGPL §6). The [official document](https://github.com/NTARI-RAND/Janus) keeps its own license, CC BY-SA 4.0, until an amendment under §9.2 changes it.
+
+Versions of this repository from commit [`033f75d`](https://github.com/NTARI-RAND/bylaws/tree/033f75d) up to commit [`3276781`](https://github.com/NTARI-RAND/bylaws/tree/3276781) were published under CC BY-SA 4.0, and stay available under that license as well (§13.2). Earlier versions were published under AGPL-3.0.
