@@ -233,6 +233,8 @@ Where these bylaws give a matter to a channel or a federation rather than to the
 **9.17 Maintaining the suite.** Repairs to the suite that leave every identifier, anchor, and binding unchanged are ordinary maintenance, made in the open in the Governance Federation Channel and requiring no ballot. Any member may propose a repair, and any member may run the suite: it is published and executable by anyone under §9.4, and a result no one outside the Institute can reproduce is not a result.
 
 **9.18 A failing suite is business.** If the suite fails against the current official document, the failure is entered in the open-questions document under §9.3 and stands as business in the Governance Federation Channel until it is resolved by repair of the suite or by amendment of the document. While a failure stands, the Institute recognizes no conformance claim, membership condition, or publication as satisfied by the invariant the failure touches.
+
+**9.19 The reasoning travels with the change.** Every change to a repository the Institute stewards under §9.1 records why it was made in the message of the commit that carries it, so that a reader holding only a mirror of the repository can audit the change whole: tests show what the code does, and the recorded reasoning shows why it was designed that way. Discussion held on a hosting platform is not part of the record, and no separate proposal or decision file is required or accepted in its place. Each repository's contribution guide sets the form; a check run on every proposed change refuses a commit that carries none, and no merge method that replaces checked commits after that check is used. A question raised in review and not resolved by the change is entered in the open-questions document under §9.3.
 ---
 
 ## Article X — Member Duties
@@ -405,6 +407,7 @@ A deployment switches to a hybrid or full mutual credit system only when all thr
 | §9.16 | Registry changes are amendments; identifiers never reused | Conformance suite registry (lineage notes) |
 | §9.17 | Suite published and runnable by anyone; repairs need no ballot | Official document, Principles (lean, auditable) |
 | §9.18 | A failing suite is open business, not a silent pass | Concept triage, carried (meta); §9.3 |
+| §9.19 | The reasoning for a change lives in the commit history, which survives a mirror; platform discussion does not | Official document, Principles (lean, auditable); §9.3; §2.5 |
 | §10.1, §10.2 | Orchestrator and operator duties; operator responsibility as the frame | Dispute-mechanics design §1 (bylaws-level per 2026-08-27 revision) |
 | §10.2 (Covenant Compliance) | Bidirectional covenant assessment at every exchange point; operator adjudicates and executes remedies | Official document, Covenant Layer; dispute-mechanics design §§3, 4 |
 | §10.2 (Credit Setting) | Community-wide limit, one number, never derived from reputation | Official document, line 9 (L9) |
