@@ -12,6 +12,9 @@ not add proposal files or version-documentation alongside the instrument — git
 history is the version record, and a parallel proposal document starts drifting
 from the text it describes the moment it is merged.
 
+The one exception is `open-questions/`. It holds questions, never proposed
+text.
+
 Amendment itself is governed by Article XV. Nothing here overrides it; this
 file describes how a change reaches the repository, not who may adopt one.
 
