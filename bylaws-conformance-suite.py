@@ -48,7 +48,8 @@ import sys
 
 Result = collections.namedtuple("Result", "name ok detail")
 
-DOC_DEFAULT = "P1-001_Bylaws_v1.0.md"
+DOC_DEFAULT = os.path.join(os.path.dirname(os.path.realpath(__file__)),
+                           "P1-001_Bylaws_v1.0.md")
 
 ARTICLES = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
             "XI", "XII", "XIII", "XIV", "XV", "XVI"]
